@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>russian.pdf_page_1.png</fileName>
+      <fileIdentifier>pdf//russian.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1379" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3508">
+        <TextBlock HPOS="1194"
+                   VPOS="1897"
+                   WIDTH="117"
+                   HEIGHT="61"
+                   ID="eSc_textblock_e8b6c392"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="1194 1897 1194 1958 1311 1958 1311 1897"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="882"
+                   VPOS="236"
+                   WIDTH="702"
+                   HEIGHT="134"
+                   ID="eSc_textblock_94d8463d"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="882 236 882 370 1584 370 1584 236"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1144"
+                   VPOS="498"
+                   WIDTH="206"
+                   HEIGHT="84"
+                   ID="eSc_textblock_5643162c"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="1144 498 1144 582 1350 582 1350 498"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="180"
+                   VPOS="1964"
+                   WIDTH="2106"
+                   HEIGHT="1315"
+                   ID="eSc_textblock_e8a0658a"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="2275 3279 2286 1964 180 1964 180 3268"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="208"
+                   VPOS="710"
+                   WIDTH="2084"
+                   HEIGHT="1182"
+                   ID="eSc_textblock_93095c5f"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="2292 1892 2286 710 208 710 219 1891"/></Shape>
+        </TextBlock>
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_7f3758b8"
+                    TAGREFS="LT1379"
+                    BASELINE="1093 282 1384 276" 
+                    HPOS="1091"
+                    VPOS="229"
+                    WIDTH="293"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1169 235 1150 239 1130 243 1111 247 1091 251 1093 282 1093 294 1384 288 1384 276 1380 237 1218 229 1216 229 1177 233 1169 235"/></Shape>
+            <String CONTENT="двойник"
+                    HPOS="1091"
+                    VPOS="229"
+                    WIDTH="293"
+                    HEIGHT="65"
+                    WC="0.9955304094723293"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1cc477c0"
+                    TAGREFS="LT1379"
+                    BASELINE="922 341 1548 337" 
+                    HPOS="922"
+                    VPOS="300"
+                    WIDTH="626"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="924 325 922 341 922 358 1546 356 1548 337 1542 300 937 300 924 325"/></Shape>
+            <String CONTENT="ПЕTЕРБYРГСKАЯ ПОЭМА"
+                    HPOS="922"
+                    VPOS="300"
+                    WIDTH="626"
+                    HEIGHT="58"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_12350af5"
+                    TAGREFS="LT1379"
+                    BASELINE="1148 553 1333 553" 
+                    HPOS="1148"
+                    VPOS="512"
+                    WIDTH="185"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1323 541 1304 514 1300 512 1284 524 1206 524 1193 512 1191 512 1189 512 1187 512 1148 520 1148 553 1148 571 1333 571 1333 553 1329 545 1323 541"/></Shape>
+            <String CONTENT="Глава I"
+                    HPOS="1148"
+                    VPOS="512"
+                    WIDTH="185"
+                    HEIGHT="59"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a2cae639"
+                    TAGREFS="LT1379"
+                    BASELINE="224 748 2253 744" 
+                    HPOS="222"
+                    VPOS="711"
+                    WIDTH="2031"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="2249 715 2230 715 2210 715 2191 715 2171 715 2152 715 2132 715 2113 715 2093 715 2074 715 2054 715 2035 715 2015 715 1996 713 1976 713 1957 713 1937 713 1918 713 1898 713 1879 713 1860 713 1840 713 1821 713 1801 713 1782 713 1762 713 1756 711 222 711 224 748 224 763 2251 760 2253 744 2249 715 2249 715"/></Shape>
+            <String CONTENT="Было без малого восемь часов утра, когда титулярный советник Яков Петрович Голядкин"
+                    HPOS="222"
+                    VPOS="711"
+                    WIDTH="2031"
+                    HEIGHT="52"
+                    WC="0.9953100638217237"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_71cc7c52"
+                    TAGREFS="LT1379"
+                    BASELINE="224 808 2251 808" 
+                    HPOS="224"
+                    VPOS="779"
+                    WIDTH="2027"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="224 808 224 826 2251 826 2251 808 2251 779 224 779 224 808"/></Shape>
+            <String CONTENT="очнулся после долгого сна, зевнул, потянулся и открыл наконец совершенно глаза свои."
+                    HPOS="224"
+                    VPOS="779"
+                    WIDTH="2027"
+                    HEIGHT="47"
+                    WC="0.9996956572646186"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dd06c78c"
+                    TAGREFS="LT1379"
+                    BASELINE="226 873 2253 867" 
+                    HPOS="224"
+                    VPOS="836"
+                    WIDTH="2029"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="226 873 226 890 2251 884 2253 867 2249 838 224 836 226 873"/></Shape>
+            <String CONTENT="Минуты с две, впрочем, лежал он неподвижно на своей постели, как человек не вполне еще"
+                    HPOS="224"
+                    VPOS="836"
+                    WIDTH="2029"
+                    HEIGHT="54"
+                    WC="0.9942394155402516"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_90991742"
+                    TAGREFS="LT1379"
+                    BASELINE="224 935 2253 931" 
+                    HPOS="222"
+                    VPOS="902"
+                    WIDTH="2031"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="224 935 224 956 2251 947 2253 931 2247 902 222 904 224 935"/></Shape>
+            <String CONTENT="уверенный, проснулся ли он или всë еще спит, наяву ли и в действительности ли всë, что"
+                    HPOS="222"
+                    VPOS="902"
+                    WIDTH="2031"
+                    HEIGHT="54"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_823c5e1e"
+                    TAGREFS="LT1379"
+                    BASELINE="224 993 2251 997" 
+                    HPOS="222"
+                    VPOS="962"
+                    WIDTH="2029"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="224 993 222 1007 2247 1011 2251 997 2249 966 224 962 224 993"/></Shape>
+            <String CONTENT="около него теперь совершается, или - продолжение его беспорядочных сонных грез. Вскоре,"
+                    HPOS="222"
+                    VPOS="962"
+                    WIDTH="2029"
+                    HEIGHT="49"
+                    WC="0.9990572210015922"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_22bb3753"
+                    TAGREFS="LT1379"
+                    BASELINE="224 1060 2251 1056" 
+                    HPOS="222"
+                    VPOS="1029"
+                    WIDTH="2029"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="224 1060 224 1073 2249 1071 2251 1056 2246 1029 222 1030 224 1060"/></Shape>
+            <String CONTENT="однако ж, чувства господина Голядкина стали яснее и отчетливее принимать свои"
+                    HPOS="222"
+                    VPOS="1029"
+                    WIDTH="2029"
+                    HEIGHT="44"
+                    WC="0.9959055587842867"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bcb52766"
+                    TAGREFS="LT1379"
+                    BASELINE="224 1118 2251 1122" 
+                    HPOS="222"
+                    VPOS="1089"
+                    WIDTH="2029"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="224 1118 222 1130 2247 1136 2251 1122 2249 1093 224 1089 224 1118"/></Shape>
+            <String CONTENT="привычные, обыденные впечатления. Знакомо глянули на него зеленовато-грязноватые,"
+                    HPOS="222"
+                    VPOS="1089"
+                    WIDTH="2029"
+                    HEIGHT="47"
+                    WC="0.9970641496740742"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fc54d166"
+                    TAGREFS="LT1379"
+                    BASELINE="226 1184 2253 1184" 
+                    HPOS="226"
+                    VPOS="1153"
+                    WIDTH="2027"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="226 1184 226 1202 2253 1202 2253 1184 2253 1153 226 1153 226 1184"/></Shape>
+            <String CONTENT="закоптелые, пыльные стены его маленькой комнатки, его комод красного дерева, стулья под"
+                    HPOS="226"
+                    VPOS="1153"
+                    WIDTH="2027"
+                    HEIGHT="49"
+                    WC="0.996366633080888"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d00087b1"
+                    TAGREFS="LT1379"
+                    BASELINE="224 1247 2253 1243" 
+                    HPOS="222"
+                    VPOS="1216"
+                    WIDTH="2031"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="224 1247 224 1260 2251 1257 2253 1243 2247 1216 222 1218 224 1247"/></Shape>
+            <String CONTENT="красное дерево, стол, окрашенный красною краскою, клеенчатый турецкий диван"
+                    HPOS="222"
+                    VPOS="1216"
+                    WIDTH="2031"
+                    HEIGHT="44"
+                    WC="0.9977448010444641"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d41e852d"
+                    TAGREFS="LT1379"
+                    BASELINE="224 1309 2251 1303" 
+                    HPOS="222"
+                    VPOS="1276"
+                    WIDTH="2029"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="2249 1297 2240 1276 222 1280 224 1309 224 1327 2249 1323 2251 1303 2249 1296 2249 1297"/></Shape>
+            <String CONTENT="красноватого цвета с зелененькими цветочками и, наконец, вчера впопыхах снятое платье и"
+                    HPOS="222"
+                    VPOS="1276"
+                    WIDTH="2029"
+                    HEIGHT="51"
+                    WC="0.9932499521080105"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2565f74b"
+                    TAGREFS="LT1379"
+                    BASELINE="224 1372 2253 1368" 
+                    HPOS="222"
+                    VPOS="1338"
+                    WIDTH="2031"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="224 1372 224 1389 2251 1385 2253 1368 2247 1338 222 1340 224 1372"/></Shape>
+            <String CONTENT="брошенное комком на диване. Наконец, серый осенний день, мутный и грязный, так сердито"
+                    HPOS="222"
+                    VPOS="1338"
+                    WIDTH="2031"
+                    HEIGHT="51"
+                    WC="0.9950023508349131"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_627a06fe"
+                    TAGREFS="LT1379"
+                    BASELINE="224 1430 2251 1434" 
+                    HPOS="222"
+                    VPOS="1399"
+                    WIDTH="2029"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="224 1430 222 1446 2247 1449 2251 1434 2249 1403 224 1399 224 1430"/></Shape>
+            <String CONTENT="и с такой кислой гримасою заглянул к нему сквозь тусклое окно в комнату, что господин"
+                    HPOS="222"
+                    VPOS="1399"
+                    WIDTH="2029"
+                    HEIGHT="50"
+                    WC="0.9987896779004265"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8c41f259"
+                    TAGREFS="LT1379"
+                    BASELINE="224 1496 2253 1492" 
+                    HPOS="222"
+                    VPOS="1463"
+                    WIDTH="2031"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="224 1496 224 1514 2251 1510 2253 1492 2249 1463 222 1463 224 1496"/></Shape>
+            <String CONTENT="Голядкин никаким уже образом не мог более сомневаться, что он находится не в тридесятом"
+                    HPOS="222"
+                    VPOS="1463"
+                    WIDTH="2031"
+                    HEIGHT="51"
+                    WC="0.9926187526220562"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_08d2e1af"
+                    TAGREFS="LT1379"
+                    BASELINE="224 1555 2253 1559" 
+                    HPOS="222"
+                    VPOS="1524"
+                    WIDTH="2031"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="224 1555 222 1570 2249 1574 2253 1559 2251 1527 224 1524 224 1555"/></Shape>
+            <String CONTENT="царстве каком-нибудь, а в городе Петербурге, в столице, в Шестилавочной улице, в четвертом"
+                    HPOS="222"
+                    VPOS="1524"
+                    WIDTH="2031"
+                    HEIGHT="50"
+                    WC="0.9974932604365878"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f42f5d7d"
+                    TAGREFS="LT1379"
+                    BASELINE="226 1621 2251 1621" 
+                    HPOS="226"
+                    VPOS="1592"
+                    WIDTH="2025"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="226 1621 226 1639 2251 1639 2251 1621 2251 1592 226 1592 226 1621"/></Shape>
+            <String CONTENT="этаже одного весьма большого, капитального дома, в собственной квартире своей. Сделав"
+                    HPOS="226"
+                    VPOS="1592"
+                    WIDTH="2025"
+                    HEIGHT="47"
+                    WC="0.998391165452845"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_04cf0707"
+                    TAGREFS="LT1379"
+                    BASELINE="226 1683 2253 1683" 
+                    HPOS="226"
+                    VPOS="1654"
+                    WIDTH="2027"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="226 1683 226 1701 2253 1701 2253 1683 2253 1654 226 1654 226 1683"/></Shape>
+            <String CONTENT="такое важное открытие, господин Голядкин судорожно закрыл глаза, как бы сожалея о"
+                    HPOS="226"
+                    VPOS="1654"
+                    WIDTH="2027"
+                    HEIGHT="47"
+                    WC="0.9982151999885653"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_23282e62"
+                    TAGREFS="LT1379"
+                    BASELINE="224 1746 2253 1746" 
+                    HPOS="224"
+                    VPOS="1716"
+                    WIDTH="2029"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="224 1746 224 1761 2253 1761 2253 1746 2253 1716 224 1716 224 1746"/></Shape>
+            <String CONTENT="недавнем сне и желая его воротить на минутку. Но через минуту он одним скачком"
+                    HPOS="224"
+                    VPOS="1716"
+                    WIDTH="2029"
+                    HEIGHT="45"
+                    WC="0.9988374289793845"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0e16a705"
+                    TAGREFS="LT1379"
+                    BASELINE="224 1808 2251 1808" 
+                    HPOS="224"
+                    VPOS="1779"
+                    WIDTH="2027"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="224 1808 224 1826 2251 1826 2251 1808 2251 1779 224 1779 224 1808"/></Shape>
+            <String CONTENT="выпрыгнул из постели, вероятно попав наконец в ту идею, около которой вертелись до сих"
+                    HPOS="224"
+                    VPOS="1779"
+                    WIDTH="2027"
+                    HEIGHT="47"
+                    WC="0.9964089289654133"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d6e74f66"
+                    TAGREFS="LT1379"
+                    BASELINE="224 1867 1458 1872" 
+                    HPOS="222"
+                    VPOS="1835"
+                    WIDTH="1236"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="224 1867 222 1882 1454 1888 1458 1872 1456 1841 224 1835 224 1867"/></Shape>
+            <String CONTENT="пор рассеянные, не приведенные в надлежащий порядок"
+                    HPOS="222"
+                    VPOS="1835"
+                    WIDTH="1236"
+                    HEIGHT="53"
+                    WC="0.9946129579170078"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1ccfed43"
+                    TAGREFS="LT1379"
+                    BASELINE="1195 1933 1282 1929" 
+                    HPOS="1191"
+                    VPOS="1890"
+                    WIDTH="91"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1195 1933 1195 1943 1280 1941 1282 1929 1277 1890 1191 1898 1195 1933"/></Shape>
+            <String CONTENT="147"
+                    HPOS="1191"
+                    VPOS="1890"
+                    WIDTH="91"
+                    HEIGHT="53"
+                    WC="0.9999983310699463"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d9d629e5"
+                    TAGREFS="LT1379"
+                    BASELINE="226 1995 2251 1991" 
+                    HPOS="224"
+                    VPOS="1964"
+                    WIDTH="2027"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="226 1995 226 2011 2249 2009 2251 1991 2246 1964 224 1966 226 1995"/></Shape>
+            <String CONTENT="мысли его. Выпрыгнув из постели, он тотчас же подбежал к небольшому кругленькому"
+                    HPOS="224"
+                    VPOS="1964"
+                    WIDTH="2027"
+                    HEIGHT="47"
+                    WC="0.9974991761147975"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3814d2b5"
+                    TAGREFS="LT1379"
+                    BASELINE="226 2059 2253 2056" 
+                    HPOS="224"
+                    VPOS="2026"
+                    WIDTH="2029"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="226 2059 226 2077 2251 2073 2253 2056 2247 2026 224 2028 226 2059"/></Shape>
+            <String CONTENT="зеркальцу, стоящему на комоде. Хотя отразившаяся в зеркале заспанная, подслеповатая и"
+                    HPOS="224"
+                    VPOS="2026"
+                    WIDTH="2029"
+                    HEIGHT="51"
+                    WC="0.9912504560807172"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ce3f1991"
+                    TAGREFS="LT1379"
+                    BASELINE="226 2120 2253 2120" 
+                    HPOS="226"
+                    VPOS="2091"
+                    WIDTH="2027"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="226 2120 226 2137 2253 2135 2253 2120 2253 2091 226 2091 226 2120"/></Shape>
+            <String CONTENT="довольно оплешивевшая фигура была именно такого незначительного свойства, что с первого"
+                    HPOS="226"
+                    VPOS="2091"
+                    WIDTH="2027"
+                    HEIGHT="46"
+                    WC="0.9954372479997832"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_10c0d183"
+                    TAGREFS="LT1379"
+                    BASELINE="224 2184 2251 2180" 
+                    HPOS="222"
+                    VPOS="2151"
+                    WIDTH="2029"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="224 2184 224 2202 2249 2198 2251 2180 2246 2151 222 2153 224 2184"/></Shape>
+            <String CONTENT="взгляда не останавливала на себе решительно ничьего исключительного внимания, но, по-"
+                    HPOS="222"
+                    VPOS="2151"
+                    WIDTH="2029"
+                    HEIGHT="51"
+                    WC="0.9994077044374803"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b9a341ad"
+                    TAGREFS="LT1379"
+                    BASELINE="224 2245 2251 2245" 
+                    HPOS="224"
+                    VPOS="2215"
+                    WIDTH="2027"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="224 2245 224 2264 2251 2264 2251 2245 2251 2215 224 2215 224 2245"/></Shape>
+            <String CONTENT="видимому, обладатель ее остался совершенно доволен всем тем, что увидел в зеркале. «Вот"
+                    HPOS="224"
+                    VPOS="2215"
+                    WIDTH="2027"
+                    HEIGHT="49"
+                    WC="0.9948514336827158"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5753fca3"
+                    TAGREFS="LT1379"
+                    BASELINE="224 2307 2251 2307" 
+                    HPOS="224"
+                    VPOS="2278"
+                    WIDTH="2027"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="224 2307 224 2325 2251 2325 2251 2307 2251 2280 224 2278 224 2307"/></Shape>
+            <String CONTENT="бы штука была, - сказал господин Голядкин вполголоса, - вот бы штука была, если б я"
+                    HPOS="224"
+                    VPOS="2278"
+                    WIDTH="2027"
+                    HEIGHT="47"
+                    WC="0.9889121421848435"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5241e52b"
+                    TAGREFS="LT1379"
+                    BASELINE="224 2367 2253 2371" 
+                    HPOS="222"
+                    VPOS="2338"
+                    WIDTH="2031"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="224 2367 222 2381 2249 2385 2253 2371 2251 2342 224 2338 224 2367"/></Shape>
+            <String CONTENT="сегодня манкировал в чем-нибудь, если б вышло, например, что-нибудь не так, - прыщик"
+                    HPOS="222"
+                    VPOS="2338"
+                    WIDTH="2031"
+                    HEIGHT="47"
+                    WC="0.9976552079121271"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6fb4b483"
+                    TAGREFS="LT1379"
+                    BASELINE="226 2434 2251 2434" 
+                    HPOS="226"
+                    VPOS="2404"
+                    WIDTH="2025"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="226 2434 226 2449 2251 2449 2251 2434 2251 2404 226 2404 226 2434"/></Shape>
+            <String CONTENT="там какой-нибудь вскочил посторонний или произошла бы другая какая-нибудь"
+                    HPOS="226"
+                    VPOS="2404"
+                    WIDTH="2025"
+                    HEIGHT="45"
+                    WC="0.9897547984776431"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_de86a876"
+                    TAGREFS="LT1379"
+                    BASELINE="224 2496 2251 2496" 
+                    HPOS="224"
+                    VPOS="2467"
+                    WIDTH="2027"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="224 2496 224 2512 2251 2512 2251 2496 2251 2467 224 2467 224 2496"/></Shape>
+            <String CONTENT="неприятность; впрочем, покамест недурно; покамест всë идет хорошо». Оченъ"
+                    HPOS="224"
+                    VPOS="2467"
+                    WIDTH="2027"
+                    HEIGHT="45"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7bab7333"
+                    TAGREFS="LT1379"
+                    BASELINE="224 2558 2253 2558" 
+                    HPOS="224"
+                    VPOS="2527"
+                    WIDTH="2029"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="224 2558 224 2576 2253 2576 2253 2558 2253 2527 224 2527 224 2558"/></Shape>
+            <String CONTENT="обрадовавшись тому, что всë идет хорошо, господин Голядкин поставил зеркало на прежнее"
+                    HPOS="224"
+                    VPOS="2527"
+                    WIDTH="2029"
+                    HEIGHT="49"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d620e99d"
+                    TAGREFS="LT1379"
+                    BASELINE="226 2621 2253 2617" 
+                    HPOS="224"
+                    VPOS="2588"
+                    WIDTH="2029"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="226 2621 226 2638 2251 2634 2253 2617 2247 2588 224 2590 226 2621"/></Shape>
+            <String CONTENT="место, а сам, несмотря на то что был босиком и сохранял на себе тот костюм, в котором имел"
+                    HPOS="224"
+                    VPOS="2588"
+                    WIDTH="2029"
+                    HEIGHT="50"
+                    WC="0.9889392541514502"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e93c0c16"
+                    TAGREFS="LT1379"
+                    BASELINE="224 2683 2253 2679" 
+                    HPOS="222"
+                    VPOS="2654"
+                    WIDTH="2031"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="224 2683 224 2699 2251 2695 2253 2679 2247 2654 222 2656 224 2683"/></Shape>
+            <String CONTENT="обыкновение отходить ко сну, подбежал к окошку и с большим участием начал что-то"
+                    HPOS="222"
+                    VPOS="2654"
+                    WIDTH="2031"
+                    HEIGHT="45"
+                    WC="0.9968852140009403"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bc941164"
+                    TAGREFS="LT1379"
+                    BASELINE="224 2745 2251 2745" 
+                    HPOS="224"
+                    VPOS="2714"
+                    WIDTH="2027"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="224 2745 224 2765 2251 2765 2251 2745 2251 2714 224 2714 224 2745"/></Shape>
+            <String CONTENT="отыскивать глазами на дворе дома, на который выходили окна квартиры его. По-видимому, и"
+                    HPOS="224"
+                    VPOS="2714"
+                    WIDTH="2027"
+                    HEIGHT="51"
+                    WC="0.9881671995952211"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b5677f3a"
+                    TAGREFS="LT1379"
+                    BASELINE="226 2810 2253 2806" 
+                    HPOS="224"
+                    VPOS="2779"
+                    WIDTH="2029"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="226 2810 226 2823 2251 2820 2253 2806 2247 2779 224 2781 226 2810"/></Shape>
+            <String CONTENT="то, что он отыскал на дворе, совершенно его удовлетворило: лицо его просияло"
+                    HPOS="224"
+                    VPOS="2779"
+                    WIDTH="2029"
+                    HEIGHT="44"
+                    WC="0.9938144589725294"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bfdedf98"
+                    TAGREFS="LT1379"
+                    BASELINE="224 2866 2251 2870" 
+                    HPOS="222"
+                    VPOS="2837"
+                    WIDTH="2029"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="224 2866 222 2882 2247 2886 2251 2870 2249 2841 224 2837 224 2866"/></Shape>
+            <String CONTENT="самодовольной улыбкою. Потом, - заглянув, впрочем, сначала за перегородку в каморку"
+                    HPOS="222"
+                    VPOS="2837"
+                    WIDTH="2029"
+                    HEIGHT="49"
+                    WC="0.9999345497912672"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_56eadbec"
+                    TAGREFS="LT1379"
+                    BASELINE="224 2935 2251 2931" 
+                    HPOS="222"
+                    VPOS="2899"
+                    WIDTH="2029"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="224 2935 224 2950 2249 2948 2251 2931 2247 2903 222 2899 224 2935"/></Shape>
+            <String CONTENT="Петрушки, своего камердинера, и уверившись, что в ней нет Петрушки, - на цыпочках"
+                    HPOS="222"
+                    VPOS="2899"
+                    WIDTH="2029"
+                    HEIGHT="51"
+                    WC="0.9996734151133785"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_be726df0"
+                    TAGREFS="LT1379"
+                    BASELINE="224 2995 2251 2991" 
+                    HPOS="222"
+                    VPOS="2964"
+                    WIDTH="2029"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="224 2995 224 3012 2249 3009 2251 2991 2246 2964 222 2966 224 2995"/></Shape>
+            <String CONTENT="подошел к столу, отпер в нем один ящик, пошарил в самом заднем уголку этого ящика, вынул"
+                    HPOS="222"
+                    VPOS="2964"
+                    WIDTH="2029"
+                    HEIGHT="48"
+                    WC="0.9949318251826547"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d976f4cf"
+                    TAGREFS="LT1379"
+                    BASELINE="226 3055 2251 3059" 
+                    HPOS="224"
+                    VPOS="3024"
+                    WIDTH="2027"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="226 3055 224 3071 2247 3075 2251 3059 2249 3028 226 3024 226 3055"/></Shape>
+            <String CONTENT="наконец из-под старых пожелтевших бумаг и кой-какой дряни зеленый истертый бумажник,"
+                    HPOS="224"
+                    VPOS="3024"
+                    WIDTH="2027"
+                    HEIGHT="51"
+                    WC="0.9966990003983179"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9bc4d119"
+                    TAGREFS="LT1379"
+                    BASELINE="224 3122 2251 3116" 
+                    HPOS="222"
+                    VPOS="3087"
+                    WIDTH="2029"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="224 3122 224 3139 2249 3133 2251 3116 2246 3087 222 3092 224 3122"/></Shape>
+            <String CONTENT="открыл его осторожно - и бережно и с наслаждением заглянул в самый дальний, потаенный"
+                    HPOS="222"
+                    VPOS="3087"
+                    WIDTH="2029"
+                    HEIGHT="52"
+                    WC="0.9872633330962237"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2c3b2b5f"
+                    TAGREFS="LT1379"
+                    BASELINE="226 3184 2251 3184" 
+                    HPOS="226"
+                    VPOS="3155"
+                    WIDTH="2025"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="226 3184 226 3202 2251 3202 2251 3184 2251 3155 226 3155 226 3184"/></Shape>
+            <String CONTENT="карман его. Вероятно, пачка зелененьких, сереньких, синеньких, красненьких и разных"
+                    HPOS="226"
+                    VPOS="3155"
+                    WIDTH="2025"
+                    HEIGHT="47"
+                    WC="0.998135354863592"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a4733db4"
+                    TAGREFS="LT1379"
+                    BASELINE="226 3244 2251 3244" 
+                    HPOS="226"
+                    VPOS="3215"
+                    WIDTH="2025"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="226 3244 226 3264 2251 3264 2251 3244 2251 3215 226 3215 226 3244"/></Shape>
+            <String CONTENT="пестреньких бумажек тоже весьма приветливо и одобрительно глянула на господина"
+                    HPOS="226"
+                    VPOS="3215"
+                    WIDTH="2025"
+                    HEIGHT="49"
+                    WC="0.9962141941755246"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kavkazsky_kazak_143_1938__ocr.pdf_page_12.png</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1379" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1705"
+          HEIGHT="2628"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1705"
+                  HEIGHT="2628">
+        <TextBlock HPOS="88"
+                   VPOS="177"
+                   WIDTH="72"
+                   HEIGHT="43"
+                   ID="eSc_textblock_ae9c6211"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="88 177 88 220 160 220 160 177"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="742"
+                   VPOS="1733"
+                   WIDTH="242"
+                   HEIGHT="25"
+                   ID="eSc_textblock_e692ec3e"
+                   TAGREFS="BT11">
+          <Shape><Polygon POINTS="742 1733 742 1758 984 1758 984 1733"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="56"
+                   VPOS="268"
+                   WIDTH="1602"
+                   HEIGHT="1431"
+                   ID="eSc_textblock_797692c1"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="1658 1699 1658 268 56 268 56 1699"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="72"
+                   VPOS="1849"
+                   WIDTH="1560"
+                   HEIGHT="591"
+                   ID="eSc_textblock_1fe23f79"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="72 1849 72 2440 1632 2440 1632 1849"/></Shape>
+        </TextBlock>
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_5d65bf9d"
+                    TAGREFS="LT1379"
+                    BASELINE="97 210 151 210" 
+                    HPOS="97"
+                    VPOS="169"
+                    WIDTH="54"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="143 178 112 169 111 169 109 169 108 169 106 169 106 170 97 178 97 210 97 220 151 220 151 210 150 205 143 178"/></Shape>
+            <String CONTENT="10"
+                    HPOS="97"
+                    VPOS="169"
+                    WIDTH="54"
+                    HEIGHT="51"
+                    WC="1.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2951443c"
+                    TAGREFS="LT1379"
+                    BASELINE="470 331 1227 335" 
+                    HPOS="468"
+                    VPOS="281"
+                    WIDTH="759"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1217 300 986 292 984 292 886 299 872 290 870 290 869 290 867 290 689 294 664 281 663 281 661 281 612 290 600 281 599 281 597 281 544 281 543 281 542 281 540 281 540 283 528 294 515 283 515 281 514 281 512 281 511 281 470 287 470 331 468 340 486 348 487 348 489 348 490 348 512 341 578 348 580 348 658 341 1211 351 1212 351 1214 351 1215 351 1225 343 1227 335 1224 312 1217 300"/></Shape>
+            <String CONTENT="О Кубанскиxъ могилаxъ."
+                    HPOS="468"
+                    VPOS="281"
+                    WIDTH="759"
+                    HEIGHT="70"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ad49194e"
+                    TAGREFS="LT1379"
+                    BASELINE="92 513 375 508 1604 511" 
+                    HPOS="92"
+                    VPOS="483"
+                    WIDTH="1512"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="105 484 92 489 92 513 92 521 1602 521 1604 511 1601 483 105 483 105 484"/></Shape>
+            <String CONTENT="ловъ затянулись и уже много казаковъ сложили свои кости на чужой"
+                    HPOS="92"
+                    VPOS="483"
+                    WIDTH="1512"
+                    HEIGHT="38"
+                    WC="0.9990613702684641"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1ac422c3"
+                    TAGREFS="LT1379"
+                    BASELINE="254 467 959 462 1601 467" 
+                    HPOS="252"
+                    VPOS="433"
+                    WIDTH="1349"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1596 442 1582 442 1567 442 1553 440 1538 440 1523 440 1509 439 1494 439 1480 439 1474 438 252 433 254 467 254 474 483 481 485 481 878 474 918 481 920 481 921 481 954 474 1222 474 1234 481 1236 481 1237 481 1238 483 1421 483 1421 481 1423 481 1449 474 1459 481 1461 481 1462 481 1463 483 1576 483 1576 481 1577 481 1601 473 1601 467 1599 442 1596 442"/></Shape>
+            <String CONTENT="Годы вынужденнаго нашего пребыванія внѣ родныхъ предѣ-"
+                    HPOS="252"
+                    VPOS="433"
+                    WIDTH="1349"
+                    HEIGHT="50"
+                    WC="0.9984610456007498"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_af328870"
+                    TAGREFS="LT1379"
+                    BASELINE="523 410 894 407" 
+                    HPOS="521"
+                    VPOS="372"
+                    WIDTH="373"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="523 410 523 420 892 417 894 407 892 381 879 372 878 372 876 372 875 372 873 372 872 372 860 382 784 382 765 372 764 372 762 372 761 372 730 379 708 372 707 372 705 372 704 372 679 383 580 383 555 373 553 373 552 373 550 373 521 381 523 410"/></Shape>
+            <String CONTENT="Братья Кубанцы!"
+                    HPOS="521"
+                    VPOS="372"
+                    WIDTH="373"
+                    HEIGHT="48"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0a5245ef"
+                    TAGREFS="LT1379"
+                    BASELINE="93 556 1602 556" 
+                    HPOS="93"
+                    VPOS="522"
+                    WIDTH="1509"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="93 556 93 565 134 572 135 572 398 565 435 572 436 572 520 565 964 565 1006 572 1008 572 1208 565 1306 572 1307 572 1309 572 1326 565 1338 572 1339 572 1341 572 1342 573 1576 573 1576 572 1577 572 1602 563 1602 556 1602 531 864 522 863 522 861 522 838 531 300 531 251 522 249 522 248 522 224 529 191 522 189 522 93 529 93 556"/></Shape>
+            <String CONTENT="землѣ. Въ то время какъ могилы нѣкоторыхъ изъ нихъ поддержива-"
+                    HPOS="93"
+                    VPOS="522"
+                    WIDTH="1509"
+                    HEIGHT="51"
+                    WC="0.9912441113302785"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3abd4ad2"
+                    TAGREFS="LT1379"
+                    BASELINE="92 600 1602 600" 
+                    HPOS="92"
+                    VPOS="567"
+                    WIDTH="1510"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="92 600 92 610 1602 610 1602 600 1602 576 353 567 352 567 92 575 92 600"/></Shape>
+            <String CONTENT="ются въ порядкѣ близкими лицами, къ другимъ казачьимъ могиламъ"
+                    HPOS="92"
+                    VPOS="567"
+                    WIDTH="1510"
+                    HEIGHT="43"
+                    WC="0.9964934481728461"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f280f9e5"
+                    TAGREFS="LT1379"
+                    BASELINE="94 643 1602 646" 
+                    HPOS="94"
+                    VPOS="617"
+                    WIDTH="1508"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="94 643 94 655 1601 654 1602 646 1601 620 94 617 94 643"/></Shape>
+            <String CONTENT="заросли тропы, могилы запущены, кресты пришли въ вѣтхость н даже"
+                    HPOS="94"
+                    VPOS="617"
+                    WIDTH="1508"
+                    HEIGHT="38"
+                    WC="0.9881129935383797"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8f4ff06c"
+                    TAGREFS="LT1379"
+                    BASELINE="96 689 350 689" 
+                    HPOS="96"
+                    VPOS="665"
+                    WIDTH="254"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="96 689 96 702 350 702 350 689 350 665 96 665 96 689"/></Shape>
+            <String CONTENT="повалились."
+                    HPOS="96"
+                    VPOS="665"
+                    WIDTH="254"
+                    HEIGHT="37"
+                    WC="0.9999978975816206"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7364a618"
+                    TAGREFS="LT1379"
+                    BASELINE="252 731 1604 734" 
+                    HPOS="251"
+                    VPOS="702"
+                    WIDTH="1353"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="252 731 251 740 1601 743 1604 734 1602 708 252 702 252 731"/></Shape>
+            <String CONTENT="На насъ, еще живыхъ, лежитъ святая обязанность позаботиться"
+                    HPOS="251"
+                    VPOS="702"
+                    WIDTH="1353"
+                    HEIGHT="41"
+                    WC="0.9996141680216385"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6d165c7b"
+                    TAGREFS="LT1379"
+                    BASELINE="93 776 1599 779" 
+                    HPOS="93"
+                    VPOS="744"
+                    WIDTH="1506"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="93 776 93 786 799 786 876 794 878 794 1598 786 1599 779 1598 754 1024 746 1022 746 954 753 818 744 816 744 768 751 672 744 670 744 93 750 93 776"/></Shape>
+            <String CONTENT="о могилахъ нашихъ братьевъ, отыскать забытыя и привести въ над-"
+                    HPOS="93"
+                    VPOS="744"
+                    WIDTH="1506"
+                    HEIGHT="50"
+                    WC="0.9898405879262894"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c2d89758"
+                    TAGREFS="LT1379"
+                    BASELINE="93 823 1138 820" 
+                    HPOS="92"
+                    VPOS="788"
+                    WIDTH="1046"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="93 823 93 832 1136 830 1138 820 1135 797 993 788 992 788 990 788 965 797 787 797 752 788 750 788 705 795 620 789 619 789 466 797 439 789 438 789 436 789 435 789 412 798 280 798 233 789 232 789 92 798 93 823"/></Shape>
+            <String CONTENT="лежащій видъ тѣ изъ нихъ, гдѣ то потребуется."
+                    HPOS="92"
+                    VPOS="788"
+                    WIDTH="1046"
+                    HEIGHT="44"
+                    WC="0.9939588824907939"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0591407f"
+                    TAGREFS="LT1379"
+                    BASELINE="252 876 1602 876" 
+                    HPOS="252"
+                    VPOS="846"
+                    WIDTH="1350"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="252 876 252 886 1602 886 1602 876 1602 851 252 846 252 876"/></Shape>
+            <String CONTENT="По приказанію Войскового Атамана, предлагается станичнымъ"
+                    HPOS="252"
+                    VPOS="846"
+                    WIDTH="1350"
+                    HEIGHT="40"
+                    WC="0.9992907172755191"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8b26b6b4"
+                    TAGREFS="LT1379"
+                    BASELINE="92 922 1599 918" 
+                    HPOS="90"
+                    VPOS="886"
+                    WIDTH="1509"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="92 922 92 931 1598 927 1599 918 1596 894 1481 886 1480 886 1478 886 1477 886 1463 894 1328 894 1285 886 1284 886 1146 893 936 887 935 887 933 887 904 894 650 887 648 887 647 887 619 894 601 887 600 887 599 887 422 889 420 889 419 889 406 896 151 890 150 890 90 897 92 922"/></Shape>
+            <String CONTENT="и хуторскимъ атаманамъ немедленно образовать комиссiи, на обязан."
+                    HPOS="90"
+                    VPOS="886"
+                    WIDTH="1509"
+                    HEIGHT="45"
+                    WC="0.9917106995215783"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c6c4c9c1"
+                    TAGREFS="LT1379"
+                    BASELINE="93 969 580 962 1599 963" 
+                    HPOS="92"
+                    VPOS="931"
+                    WIDTH="1507"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="93 969 93 975 955 981 956 981 1598 972 1599 963 1598 938 996 931 994 931 926 938 393 932 391 932 92 940 93 969"/></Shape>
+            <String CONTENT="ность которыхъ возложить указанную заботу, а для изысканія потреб-"
+                    HPOS="92"
+                    VPOS="931"
+                    WIDTH="1507"
+                    HEIGHT="50"
+                    WC="0.9902099777351726"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f069f51b"
+                    TAGREFS="LT1379"
+                    BASELINE="93 1010 1415 1007" 
+                    HPOS="92"
+                    VPOS="975"
+                    WIDTH="1323"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="93 1010 93 1020 1414 1019 1415 1007 1412 984 1367 975 1366 975 1310 982 1211 975 1209 975 1208 975 1179 984 920 984 794 975 793 975 750 984 284 976 283 976 92 985 93 1010"/></Shape>
+            <String CONTENT="ныхъ средствъ прибѣгнуть къ обязательному самообложенію."
+                    HPOS="92"
+                    VPOS="975"
+                    WIDTH="1323"
+                    HEIGHT="45"
+                    WC="0.9995968341827393"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7c5fb9dc"
+                    TAGREFS="LT1379"
+                    BASELINE="252 1062 1601 1062" 
+                    HPOS="252"
+                    VPOS="1029"
+                    WIDTH="1349"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="252 1062 252 1073 1601 1073 1601 1062 1601 1039 1485 1039 1462 1029 1461 1029 1459 1029 1408 1039 1290 1039 1269 1029 1268 1029 1138 1029 1136 1029 1135 1029 1111 1038 1085 1029 1084 1029 1082 1029 956 1038 252 1033 252 1062"/></Shape>
+            <String CONTENT="Всѣмъ умершимъ казакамъ въ раіонѣ дѣйствія комиссiи дол-"
+                    HPOS="252"
+                    VPOS="1029"
+                    WIDTH="1349"
+                    HEIGHT="44"
+                    WC="0.992986689720835"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9b28d041"
+                    TAGREFS="LT1379"
+                    BASELINE="93 1109 1598 1106" 
+                    HPOS="92"
+                    VPOS="1074"
+                    WIDTH="1506"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="93 1109 93 1116 1596 1115 1598 1106 1595 1083 1513 1074 1512 1074 1259 1081 1062 1074 1060 1074 961 1081 921 1074 920 1074 885 1081 848 1074 847 1074 845 1074 844 1074 832 1083 783 1076 781 1076 594 1083 387 1076 385 1076 337 1083 246 1076 245 1076 243 1076 242 1076 230 1083 106 1077 105 1077 103 1077 102 1077 92 1081 93 1109"/></Shape>
+            <String CONTENT="женъ быть составленъ списокъ въ 2 экземплярахъ, съ указаніемъ"
+                    HPOS="92"
+                    VPOS="1074"
+                    WIDTH="1506"
+                    HEIGHT="42"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b203220f"
+                    TAGREFS="LT1379"
+                    BASELINE="93 1153 1596 1149" 
+                    HPOS="92"
+                    VPOS="1118"
+                    WIDTH="1504"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="93 1153 93 1165 1595 1165 1596 1149 1593 1127 1116 1127 1097 1118 1095 1118 1094 1118 981 1127 654 1119 653 1119 543 1121 542 1121 540 1121 527 1128 128 1122 127 1122 92 1130 93 1153"/></Shape>
+            <String CONTENT="именъ, отчествъ и фамилій умершихъ, какой станицы, отъ чего и"
+                    HPOS="92"
+                    VPOS="1118"
+                    WIDTH="1504"
+                    HEIGHT="47"
+                    WC="0.9999116864360746"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6d2a9e59"
+                    TAGREFS="LT1379"
+                    BASELINE="94 1198 1598 1195" 
+                    HPOS="93"
+                    VPOS="1163"
+                    WIDTH="1505"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="94 1198 94 1207 1595 1211 1598 1195 1595 1170 929 1163 927 1163 93 1172 94 1198"/></Shape>
+            <String CONTENT="когда умеръ и гдѣ находится могила.1 экз. списка оставить у себя,"
+                    HPOS="93"
+                    VPOS="1163"
+                    WIDTH="1505"
+                    HEIGHT="48"
+                    WC="0.988554086134984"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_be57b643"
+                    TAGREFS="LT1379"
+                    BASELINE="93 1242 1485 1239" 
+                    HPOS="92"
+                    VPOS="1207"
+                    WIDTH="1393"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="93 1242 93 1252 1484 1249 1485 1239 1482 1216 1430 1207 1428 1207 1211 1214 984 1207 983 1207 981 1207 980 1207 967 1214 791 1208 790 1208 613 1216 584 1208 582 1208 581 1208 393 1216 349 1208 347 1208 92 1217 93 1242"/></Shape>
+            <String CONTENT="при правленіи, а другой предоставить въ Кубанскую канцелярію."
+                    HPOS="92"
+                    VPOS="1207"
+                    WIDTH="1393"
+                    HEIGHT="45"
+                    WC="0.9983904957771301"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d20572f7"
+                    TAGREFS="LT1379"
+                    BASELINE="255 1296 1601 1292" 
+                    HPOS="254"
+                    VPOS="1268"
+                    WIDTH="1347"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="255 1296 255 1306 1599 1302 1601 1292 1598 1268 254 1268 255 1296"/></Shape>
+            <String CONTENT="Въ подтвержденіе и напоминаніе ранѣе отдававшихся распоря-"
+                    HPOS="254"
+                    VPOS="1268"
+                    WIDTH="1347"
+                    HEIGHT="38"
+                    WC="0.9997792552257406"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c90ebbe7"
+                    TAGREFS="LT1379"
+                    BASELINE="93 1341 1601 1335" 
+                    HPOS="92"
+                    VPOS="1305"
+                    WIDTH="1509"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="93 1341 93 1350 362 1357 363 1357 514 1349 826 1354 828 1354 829 1354 848 1347 1011 1347 1149 1354 1151 1354 1288 1353 1290 1353 1291 1353 1303 1346 1418 1353 1420 1353 1421 1353 1423 1353 1434 1346 1444 1353 1446 1353 1447 1353 1449 1354 1580 1354 1580 1353 1582 1353 1601 1344 1601 1335 1596 1312 989 1312 907 1305 905 1305 843 1314 664 1306 663 1306 229 1315 173 1308 172 1308 92 1316 93 1341"/></Shape>
+            <String CONTENT="женій, которыя къ сожалѣнію не всѣми исполняются, вновь предла-"
+                    HPOS="92"
+                    VPOS="1305"
+                    WIDTH="1509"
+                    HEIGHT="52"
+                    WC="0.991986388251895"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_44831f91"
+                    TAGREFS="LT1379"
+                    BASELINE="94 1385 1601 1382" 
+                    HPOS="93"
+                    VPOS="1350"
+                    WIDTH="1508"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="94 1385 94 1395 1599 1394 1601 1382 1598 1357 848 1350 847 1350 742 1359 93 1359 94 1385"/></Shape>
+            <String CONTENT="гается о каждомъ смертномъ случаѣ среди казаковъ сообщать въ Куб."
+                    HPOS="93"
+                    VPOS="1350"
+                    WIDTH="1508"
+                    HEIGHT="45"
+                    WC="0.9901252278914818"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9a44335c"
+                    TAGREFS="LT1379"
+                    BASELINE="93 1430 1275 1426" 
+                    HPOS="92"
+                    VPOS="1394"
+                    WIDTH="1183"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="93 1430 93 1441 1274 1436 1275 1426 1272 1403 1019 1403 981 1394 980 1394 978 1394 946 1401 737 1395 736 1395 679 1403 550 1395 549 1395 470 1404 280 1397 279 1397 92 1405 93 1430"/></Shape>
+            <String CONTENT="канцелярію съ подробными свѣдѣніями объ умершихъ."
+                    HPOS="92"
+                    VPOS="1394"
+                    WIDTH="1183"
+                    HEIGHT="47"
+                    WC="0.9970610847278517"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ae122a94"
+                    TAGREFS="LT1379"
+                    BASELINE="254 1484 1604 1477" 
+                    HPOS="252"
+                    VPOS="1446"
+                    WIDTH="1352"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="254 1484 254 1495 1602 1487 1604 1477 1599 1455 1157 1455 1104 1446 1103 1446 1059 1457 1031 1448 1030 1448 1028 1448 965 1457 252 1454 254 1484"/></Shape>
+            <String CONTENT="Въ тѣхъ населенныхъ пунктахъ, гдѣ нѣть станичнаго или ху-"
+                    HPOS="252"
+                    VPOS="1446"
+                    WIDTH="1352"
+                    HEIGHT="49"
+                    WC="0.994624980709009"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fedfe02d"
+                    TAGREFS="LT1379"
+                    BASELINE="96 1528 1605 1522" 
+                    HPOS="94"
+                    VPOS="1495"
+                    WIDTH="1511"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="96 1528 96 1537 847 1543 848 1543 1016 1535 1224 1541 1225 1541 1285 1534 1573 1540 1574 1540 1576 1540 1605 1531 1605 1522 1602 1499 476 1495 474 1495 372 1502 113 1496 112 1496 111 1496 94 1502 96 1528"/></Shape>
+            <String CONTENT="торского Правленія, забота о поддержаніи въ порядкѣ казачьихъ мо-"
+                    HPOS="94"
+                    VPOS="1495"
+                    WIDTH="1511"
+                    HEIGHT="48"
+                    WC="0.9997393287145174"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2550cccd"
+                    TAGREFS="LT1379"
+                    BASELINE="94 1573 1602 1566" 
+                    HPOS="93"
+                    VPOS="1541"
+                    WIDTH="1509"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="94 1573 94 1582 495 1582 584 1589 585 1589 696 1581 715 1588 717 1588 718 1588 791 1581 954 1581 970 1588 971 1588 973 1588 1601 1579 1602 1566 1599 1544 397 1541 395 1541 257 1549 112 1543 111 1543 109 1543 93 1549 94 1573"/></Shape>
+            <String CONTENT="гилъ и изысканіе средствъ для этого возлагается на старшихъ изъ"
+                    HPOS="93"
+                    VPOS="1541"
+                    WIDTH="1509"
+                    HEIGHT="48"
+                    WC="0.9906516813096546"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e0507634"
+                    TAGREFS="LT1379"
+                    BASELINE="94 1617 1113 1614" 
+                    HPOS="93"
+                    VPOS="1585"
+                    WIDTH="1020"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="94 1617 94 1627 594 1635 596 1635 642 1627 1100 1633 1101 1633 1103 1633 1104 1633 1113 1626 1113 1614 1110 1591 153 1585 151 1585 93 1592 94 1617"/></Shape>
+            <String CONTENT="кубанцевъ, проживающихъ въ этихъ пунктахъ."
+                    HPOS="93"
+                    VPOS="1585"
+                    WIDTH="1020"
+                    HEIGHT="50"
+                    WC="0.9986999418054309"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c92033d0"
+                    TAGREFS="LT1379"
+                    BASELINE="729 1670 1446 1667" 
+                    HPOS="727"
+                    VPOS="1641"
+                    WIDTH="719"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="729 1670 729 1681 1446 1679 1446 1667 1443 1641 727 1641 729 1670"/></Shape>
+            <String CONTENT="Кубанское представительство."
+                    HPOS="727"
+                    VPOS="1641"
+                    WIDTH="719"
+                    HEIGHT="40"
+                    WC="0.999853423663548"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_80001df5"
+                    TAGREFS="LT1379"
+                    BASELINE="246 1909 1455 1906" 
+                    HPOS="245"
+                    VPOS="1848"
+                    WIDTH="1210"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1444 1860 1193 1860 1171 1848 1170 1848 1129 1848 1127 1848 1126 1848 1124 1848 1110 1860 908 1860 888 1848 886 1848 885 1848 784 1860 765 1849 764 1849 720 1849 718 1849 717 1849 715 1849 701 1860 317 1858 287 1849 286 1849 284 1849 245 1857 246 1909 246 1919 393 1928 394 1928 542 1919 603 1928 604 1928 753 1919 838 1928 840 1928 936 1919 1338 1927 1339 1927 1453 1916 1455 1906 1450 1879 1444 1860"/></Shape>
+            <String CONTENT="Статутное право Георгіевскихъ Кавалеровъ."
+                    HPOS="245"
+                    VPOS="1848"
+                    WIDTH="1210"
+                    HEIGHT="80"
+                    WC="0.9986967822400535"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_373d52d9"
+                    TAGREFS="LT1379"
+                    BASELINE="251 2008 1605 2003" 
+                    HPOS="249"
+                    VPOS="1979"
+                    WIDTH="1356"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="251 2008 251 2020 1604 2014 1605 2003 1602 1979 249 1979 251 2008"/></Shape>
+            <String CONTENT="Въ цѣляхъ утвержденія исключительнаго и неотъемлемаго пра-"
+                    HPOS="249"
+                    VPOS="1979"
+                    WIDTH="1356"
+                    HEIGHT="41"
+                    WC="0.9959198020655533"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c6e5b086"
+                    TAGREFS="LT1379"
+                    BASELINE="96 2051 1607 2048" 
+                    HPOS="94"
+                    VPOS="2016"
+                    WIDTH="1513"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="96 2051 96 2062 321 2070 322 2070 444 2062 521 2070 523 2070 594 2062 913 2068 914 2068 1138 2061 1395 2068 1396 2068 1444 2061 1539 2068 1541 2068 1605 2060 1607 2048 1605 2026 1579 2016 1577 2016 1576 2016 1574 2016 1542 2023 1449 2016 1447 2016 1446 2016 1444 2016 1428 2026 1259 2026 1243 2016 1241 2016 1240 2016 1238 2016 1198 2023 1146 2016 1145 2016 1143 2016 1142 2016 1126 2026 843 2027 771 2027 745 2017 743 2017 742 2017 740 2017 702 2026 655 2017 654 2017 499 2026 444 2017 442 2017 394 2026 162 2017 160 2017 94 2027 96 2051"/></Shape>
+            <String CONTENT="ва Кавалеровъ Ордена Св. Великомученика и Побѣдоносца Георгія"
+                    HPOS="94"
+                    VPOS="2016"
+                    WIDTH="1513"
+                    HEIGHT="54"
+                    WC="0.9978448152542114"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0395e7b5"
+                    TAGREFS="LT1379"
+                    BASELINE="96 2095 1605 2095" 
+                    HPOS="96"
+                    VPOS="2067"
+                    WIDTH="1509"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="96 2095 96 2108 1605 2108 1605 2095 1604 2067 96 2070 96 2095"/></Shape>
+            <String CONTENT="быть произведенными одинъ разъ за время службы въ слѣдующій"
+                    HPOS="96"
+                    VPOS="2067"
+                    WIDTH="1509"
+                    HEIGHT="41"
+                    WC="0.9976862446736481"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_425998ea"
+                    TAGREFS="LT1379"
+                    BASELINE="99 2138 1605 2141" 
+                    HPOS="97"
+                    VPOS="2114"
+                    WIDTH="1508"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="99 2138 97 2149 1602 2153 1605 2141 1604 2117 99 2114 99 2138"/></Shape>
+            <String CONTENT="чинъ по своему желанію, а также во избѣжаніе всякихъ кривотолковъ,"
+                    HPOS="97"
+                    VPOS="2114"
+                    WIDTH="1508"
+                    HEIGHT="39"
+                    WC="0.993847934585629"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_228bf7eb"
+                    TAGREFS="LT1379"
+                    BASELINE="97 2187 1602 2182" 
+                    HPOS="96"
+                    VPOS="2154"
+                    WIDTH="1506"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="97 2187 97 2203 1601 2194 1602 2182 1599 2159 108 2154 106 2154 105 2154 103 2154 96 2159 97 2187"/></Shape>
+            <String CONTENT="распространяемыхъ злонамѣренно среди Кубанцевъ въ связи съ При-"
+                    HPOS="96"
+                    VPOS="2154"
+                    WIDTH="1506"
+                    HEIGHT="49"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b7b350c6"
+                    TAGREFS="LT1379"
+                    BASELINE="96 2230 1601 2227" 
+                    HPOS="94"
+                    VPOS="2195"
+                    WIDTH="1507"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="96 2230 96 2242 1598 2244 1601 2227 1598 2203 1395 2195 1393 2195 1392 2195 1390 2195 1377 2204 1285 2204 1262 2195 1260 2195 1259 2195 1257 2195 1238 2204 828 2204 784 2197 783 2197 781 2197 765 2206 628 2206 518 2197 517 2197 515 2197 493 2204 264 2197 262 2197 261 2197 260 2197 246 2204 109 2198 108 2198 106 2198 105 2198 94 2203 96 2230"/></Shape>
+            <String CONTENT="казомъ Кубанскаго Войсковаго Атамана о производствѣ въ 1937 году"
+                    HPOS="94"
+                    VPOS="2195"
+                    WIDTH="1507"
+                    HEIGHT="49"
+                    WC="0.9868889767676592"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d0721dd1"
+                    TAGREFS="LT1379"
+                    BASELINE="96 2274 1604 2274" 
+                    HPOS="96"
+                    VPOS="2242"
+                    WIDTH="1508"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="96 2274 96 2287 1604 2287 1604 2274 1604 2251 1294 2242 1292 2242 1291 2242 1290 2242 1276 2251 1085 2251 1015 2242 1013 2242 1012 2242 1011 2242 997 2251 841 2251 806 2242 805 2242 742 2249 693 2242 692 2242 691 2242 689 2242 676 2251 492 2251 432 2242 430 2242 368 2249 178 2242 176 2242 96 2249 96 2274"/></Shape>
+            <String CONTENT="въ Генералъ маіоры, какъ Георгіевскихъ Кавалеровъ, Полковниковъ"
+                    HPOS="96"
+                    VPOS="2242"
+                    WIDTH="1508"
+                    HEIGHT="45"
+                    WC="0.9914925391711886"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_89e19eec"
+                    TAGREFS="LT1379"
+                    BASELINE="96 2318 1602 2318" 
+                    HPOS="96"
+                    VPOS="2286"
+                    WIDTH="1506"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="96 2318 96 2331 1602 2331 1602 2318 1602 2295 1564 2286 1563 2286 1503 2293 1472 2286 1471 2286 1469 2286 1393 2293 1374 2286 1373 2286 1371 2286 1323 2293 96 2287 96 2318"/></Shape>
+            <String CONTENT="Кубанскаго казачьяго Войска - Николая Голощапова, Евгенія Ти-"
+                    HPOS="96"
+                    VPOS="2286"
+                    WIDTH="1506"
+                    HEIGHT="45"
+                    WC="0.9876313189991185"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3bdba5be"
+                    TAGREFS="LT1379"
+                    BASELINE="97 2365 1601 2360" 
+                    HPOS="96"
+                    VPOS="2330"
+                    WIDTH="1505"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="97 2365 97 2381 1599 2375 1601 2360 1598 2338 1165 2338 1127 2330 1126 2330 1124 2330 1095 2340 96 2340 97 2365"/></Shape>
+            <String CONTENT="хоцкаго и Михаила Соламахина, является необходимымъ довести до"
+                    HPOS="96"
+                    VPOS="2330"
+                    WIDTH="1505"
+                    HEIGHT="51"
+                    WC="0.999784565741016"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_adbffb03"
+                    TAGREFS="LT1379"
+                    BASELINE="97 2406 615 2409" 
+                    HPOS="96"
+                    VPOS="2375"
+                    WIDTH="519"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="97 2406 96 2417 131 2426 132 2426 613 2420 615 2409 613 2384 498 2384 490 2376 490 2375 489 2375 487 2375 486 2375 485 2375 455 2382 448 2376 448 2375 447 2375 445 2375 444 2375 407 2382 398 2375 397 2375 395 2375 394 2375 97 2379 97 2406"/></Shape>
+            <String CONTENT="всеобщаго свѣдѣнія, что"
+                    HPOS="96"
+                    VPOS="2375"
+                    WIDTH="519"
+                    HEIGHT="51"
+                    WC="0.999940372031668"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
