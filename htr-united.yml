@@ -1,38 +1,203 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: CossackOCR
-url: https://github.com/Cossackry/CossackOCR
 authors:
-  - name: Lydia
-    surname: Kamenoff
-    roles:
-      - transcriber
-      - project-manager
-  - name: Simon
-    surname: Gabay
-    roles:
-      - quality-control
-      - support
-institutions: []
-description: Cossack periodicals
-project-name: Cossackry
-project-website: https://github.com/Cossackry
-language:
-  - rus
-production-software: eScriptorium + Kraken
+- name: Lydia
+  roles:
+  - transcriber
+  - project-manager
+  surname: Kamenoff
+- name: Simon
+  roles:
+  - quality-control
+  - support
+  surname: Gabay
 automatically-aligned: false
-script:
-  - iso: Cyrl
-script-type: only-typed
-time:
-  notBefore: '1929'
-  notAfter: '1973'
+characters:
+  members:
+  - о
+  - а
+  - и
+  - е
+  - н
+  - с
+  - т
+  - в
+  - р
+  - л
+  - к
+  - д
+  - м
+  - ъ
+  - п
+  - у
+  - я
+  - г
+  - ','
+  - ы
+  - з
+  - ь
+  - .
+  - б
+  - ч
+  - ̆
+  - '-'
+  - х
+  - ѣ
+  - ж
+  - і
+  - ш
+  - ю
+  - щ
+  - ц
+  - К
+  - В
+  - П
+  - '1'
+  - С
+  - Н
+  - Г
+  - А
+  - '0'
+  - Р
+  - О
+  - И
+  - e
+  - э
+  - i
+  - Б
+  - '2'
+  - «
+  - Е
+  - »
+  - ф
+  - '9'
+  - a
+  - М
+  - Д
+  - '3'
+  - ':'
+  - '5'
+  - r
+  - Т
+  - '?'
+  - '"'
+  - s
+  - '4'
+  - '8'
+  - З
+  - Л
+  - t
+  - )
+  - N
+  - Я
+  - o
+  - '6'
+  - '7'
+  - I
+  - Ч
+  - '!'
+  - n
+  - c
+  - u
+  - °
+  - У
+  - l
+  - Ф
+  - Ю
+  - Х
+  - d
+  - Ш
+  - (
+  - "'"
+  - ;
+  - S
+  - Э
+  - ᗅ
+  - E
+  - R
+  - Ъ
+  - ̈
+  - _
+  - P
+  - h
+  - „
+  - m
+  - v
+  - M
+  - ᗞ
+  - Ж
+  - O
+  - B
+  - V
+  - k
+  - y
+  - G
+  - L
+  - F
+  - U
+  - ́
+  - Ц
+  - ᑕ
+  - …
+  - Ь
+  - p
+  - T
+  - f
+  - Y
+  - b
+  - q
+  - H
+  - g
+  - w
+  - '*'
+  - C
+  - Ы
+  - J
+  - K
+  - Ѣ
+  - A
+  - D
+  - x
+  - ̀
+  - X
+  - Щ
+  - W
+  - §
+  - '%'
+  - ̂
+  - І
+  - j
+  - Q
+  mode: NFD
+description: Cossack periodicals
+format: Alto-XML
 hands:
   count: '1'
   precision: exact
+institutions: []
+language:
+- rus
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+production-software: eScriptorium + Kraken
+project-name: Cossackry
+project-website: https://github.com/Cossackry
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Cyrl
+script-type: only-typed
+time:
+  notAfter: '1973'
+  notBefore: '1929'
+title: CossackOCR
+url: https://github.com/Cossackry/CossackOCR
 volume:
-  - metric: pages
-    count: 25
+- count: 142888
+  metric: characters
+- count: 58
+  metric: files
+- count: 3714
+  metric: lines
+- count: 25
+  metric: pages
+- count: 286
+  metric: regions
