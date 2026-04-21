@@ -1,0 +1,38 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: CossackOCR
+url: https://github.com/Cossackry/CossackOCR
+authors:
+  - name: Lydia
+    surname: Kamenoff
+    roles:
+      - transcriber
+      - project-manager
+  - name: Simon
+    surname: Gabay
+    roles:
+      - quality-control
+      - support
+institutions: []
+description: Cossack periodicals
+project-name: Cossackry
+project-website: https://github.com/Cossackry
+language:
+  - rus
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Cyrl
+script-type: only-typed
+time:
+  notBefore: '1929'
+  notAfter: '1973'
+hands:
+  count: '1'
+  precision: exact
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: pages
+    count: 25
