@@ -1,0 +1,1764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>essai_mai_1.pdf_page_1.png</fileName>
+      <fileIdentifier>pdf//essai_mai_1.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1379" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2481"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2481"
+                  HEIGHT="3508">
+        <TextBlock HPOS="236"
+                   VPOS="415"
+                   WIDTH="998"
+                   HEIGHT="2587"
+                   ID="eSc_textblock_bd4a27b1"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="236 415 236 3002 1234 3002 1234 415"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1262"
+                   VPOS="415"
+                   WIDTH="1003"
+                   HEIGHT="2576"
+                   ID="eSc_textblock_a96d5996"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="2265 2991 2265 415 1262 415 1262 2991"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1161"
+                   VPOS="3030"
+                   WIDTH="190"
+                   HEIGHT="50"
+                   ID="eSc_textblock_275538b9"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="1161 3030 1161 3080 1351 3080 1351 3030"/></Shape>
+        </TextBlock>
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_be0212ca"
+                    TAGREFS="LT1379"
+                    BASELINE="259 442 1237 446" 
+                    HPOS="257"
+                    VPOS="413"
+                    WIDTH="980"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1231 419 1212 419 1192 419 1173 419 1153 419 1134 419 1114 419 1095 419 1075 419 1056 419 1036 419 1017 419 997 417 978 417 958 417 939 417 919 417 900 417 880 417 861 417 841 417 822 417 802 417 783 417 763 417 744 415 725 415 705 415 686 415 666 415 647 415 627 415 608 415 588 415 569 415 549 415 530 415 510 415 498 413 259 413 259 442 257 456 857 467 859 467 1235 457 1237 446 1237 419 1231 419"/></Shape>
+            <String CONTENT="казался от престола, также, как и назна-"
+                    HPOS="257"
+                    VPOS="413"
+                    WIDTH="980"
+                    HEIGHT="54"
+                    WC="0.9996342793107033"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2c486641"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 444 2219 448" 
+                    HPOS="1259"
+                    VPOS="420"
+                    WIDTH="960"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="2213 426 2194 426 2175 426 2155 426 2136 426 2116 426 2097 426 2077 426 2058 426 2038 426 2019 426 1999 426 1980 424 1960 424 1941 424 1921 424 1902 424 1882 424 1863 424 1843 424 1824 424 1804 424 1785 424 1765 424 1746 424 1726 422 1707 422 1687 422 1668 422 1648 422 1629 422 1609 422 1590 422 1570 422 1551 422 1531 422 1512 422 1492 422 1473 420 1453 420 1434 420 1414 420 1395 420 1375 420 1356 420 1336 420 1317 420 1297 420 1278 420 1260 420 1260 444 1259 459 1266 467 1266 469 1268 469 1270 469 1272 471 1395 471 1395 469 1397 469 1399 469 1399 467 1409 459 1477 471 1479 471 1654 459 1793 473 1794 473 1989 461 2215 467 2219 448 2217 426 2213 426"/></Shape>
+            <String CONTENT="нения офицеров Генерального Штаба»."
+                    HPOS="1259"
+                    VPOS="420"
+                    WIDTH="960"
+                    HEIGHT="53"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d1843f75"
+                    TAGREFS="LT1379"
+                    BASELINE="259 483 1227 493" 
+                    HPOS="257"
+                    VPOS="456"
+                    WIDTH="970"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="259 483 257 498 1223 508 1227 493 1225 465 259 456 259 483"/></Shape>
+            <String CONTENT="ченный им Вел. Князь Михаим, отказавший-"
+                    HPOS="257"
+                    VPOS="456"
+                    WIDTH="970"
+                    HEIGHT="52"
+                    WC="0.9889789760112763"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_03de1b0d"
+                    TAGREFS="LT1379"
+                    BASELINE="1280 491 2229 491" 
+                    HPOS="1280"
+                    VPOS="461"
+                    WIDTH="949"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1280 491 1280 510 2229 506 2229 491 2229 463 1280 461 1280 491"/></Shape>
+            <String CONTENT="«Объединения бывших воспитанников Ни-"
+                    HPOS="1280"
+                    VPOS="461"
+                    WIDTH="949"
+                    HEIGHT="49"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3803df6e"
+                    TAGREFS="LT1379"
+                    BASELINE="257 533 1227 533" 
+                    HPOS="257"
+                    VPOS="508"
+                    WIDTH="970"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="257 533 257 547 495 559 496 559 498 559 528 549 608 559 610 559 734 549 1225 553 1227 533 1227 508 257 508 257 533"/></Shape>
+            <String CONTENT="ся в пользу народа. Поэтому то и нужно"
+                    HPOS="257"
+                    VPOS="508"
+                    WIDTH="970"
+                    HEIGHT="51"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_17749bdd"
+                    TAGREFS="LT1379"
+                    BASELINE="1262 533 2231 537" 
+                    HPOS="1260"
+                    VPOS="506"
+                    WIDTH="971"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1262 533 1260 553 1262 555 1264 555 1264 557 1266 557 1268 557 1270 557 2229 549 2231 537 2229 510 1262 506 1262 533"/></Shape>
+            <String CONTENT="колаевского Кав. Училища ». «Союза Дон-"
+                    HPOS="1260"
+                    VPOS="506"
+                    WIDTH="971"
+                    HEIGHT="51"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cfe1e413"
+                    TAGREFS="LT1379"
+                    BASELINE="261 574 1227 578" 
+                    HPOS="259"
+                    VPOS="547"
+                    WIDTH="968"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="261 574 259 592 999 592 1210 602 1212 602 1214 602 1216 602 1225 592 1227 578 1225 551 261 547 261 574"/></Shape>
+            <String CONTENT="ждать « воли народа ». Полное отделение"
+                    HPOS="259"
+                    VPOS="547"
+                    WIDTH="968"
+                    HEIGHT="55"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_50b40aa4"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 580 2229 580" 
+                    HPOS="1260"
+                    VPOS="553"
+                    WIDTH="969"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="1260 580 1260 594 2227 596 2229 580 2229 553 1260 553 1260 580"/></Shape>
+            <String CONTENT="ских дворян ». почетным казакам ряда за-"
+                    HPOS="1260"
+                    VPOS="553"
+                    WIDTH="969"
+                    HEIGHT="43"
+                    WC="0.9796001754701138"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_376e63b4"
+                    TAGREFS="LT1379"
+                    BASELINE="261 619 1225 625" 
+                    HPOS="259"
+                    VPOS="590"
+                    WIDTH="966"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="261 619 259 633 1221 643 1225 625 1223 596 261 590 261 619"/></Shape>
+            <String CONTENT="казаков от России считал вредным, считая"
+                    HPOS="259"
+                    VPOS="590"
+                    WIDTH="966"
+                    HEIGHT="53"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6cf70b01"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 621 2229 625" 
+                    HPOS="1259"
+                    VPOS="594"
+                    WIDTH="970"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1260 621 1259 641 2225 643 2229 625 2227 598 1260 594 1260 621"/></Shape>
+            <String CONTENT="рубежных каз. станиц и хуторов п входил в"
+                    HPOS="1259"
+                    VPOS="594"
+                    WIDTH="970"
+                    HEIGHT="49"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_96908676"
+                    TAGREFS="LT1379"
+                    BASELINE="261 664 1229 668" 
+                    HPOS="259"
+                    VPOS="637"
+                    WIDTH="970"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="261 664 259 678 1225 682 1229 668 1227 641 261 637 261 664"/></Shape>
+            <String CONTENT="что самостоятельное их существование им"
+                    HPOS="259"
+                    VPOS="637"
+                    WIDTH="970"
+                    HEIGHT="45"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a5054d0e"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 670 2229 670" 
+                    HPOS="1260"
+                    VPOS="643"
+                    WIDTH="969"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="1260 670 1260 686 2229 686 2229 670 2229 643 1260 643 1260 670"/></Shape>
+            <String CONTENT="ряд других обще-русских и каз. организа-"
+                    HPOS="1260"
+                    VPOS="643"
+                    WIDTH="969"
+                    HEIGHT="43"
+                    WC="0.9917085260152817"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_530b4f1f"
+                    TAGREFS="LT1379"
+                    BASELINE="257 709 1227 713" 
+                    HPOS="255"
+                    VPOS="680"
+                    WIDTH="972"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="257 709 255 724 1223 728 1227 713 1225 684 257 680 257 709"/></Shape>
+            <String CONTENT="не по силам, да и ни одна российская власть,"
+                    HPOS="255"
+                    VPOS="680"
+                    WIDTH="972"
+                    HEIGHT="48"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d215d5d2"
+                    TAGREFS="LT1379"
+                    BASELINE="1262 715 1362 711" 
+                    HPOS="1260"
+                    VPOS="686"
+                    WIDTH="102"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="1262 715 1262 730 1360 732 1362 711 1356 686 1260 687 1262 715"/></Shape>
+            <String CONTENT="ций."
+                    HPOS="1260"
+                    VPOS="686"
+                    WIDTH="102"
+                    HEIGHT="46"
+                    WC="0.9995717406272888"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5f955918"
+                    TAGREFS="LT1379"
+                    BASELINE="257 754 1221 758" 
+                    HPOS="255"
+                    VPOS="724"
+                    WIDTH="966"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="257 754 255 767 1218 771 1221 758 1220 728 257 724 257 754"/></Shape>
+            <String CONTENT="какая бы она ни была не потерпит такого от-"
+                    HPOS="255"
+                    VPOS="724"
+                    WIDTH="966"
+                    HEIGHT="47"
+                    WC="0.9965095589327257"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f4949cdf"
+                    TAGREFS="LT1379"
+                    BASELINE="255 800 448 800" 
+                    HPOS="255"
+                    VPOS="771"
+                    WIDTH="193"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="255 800 255 822 448 822 448 800 448 771 255 771 255 800"/></Shape>
+            <String CONTENT="деления."
+                    HPOS="255"
+                    VPOS="771"
+                    WIDTH="193"
+                    HEIGHT="51"
+                    WC="0.9999610856175423"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c6c796c6"
+                    TAGREFS="LT1379"
+                    BASELINE="1305 771 2231 771" 
+                    HPOS="1305"
+                    VPOS="744"
+                    WIDTH="926"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1305 771 1305 791 2231 791 2231 771 2231 744 1305 744 1305 771"/></Shape>
+            <String CONTENT="Когда в среде русской эмиграции встал во-"
+                    HPOS="1305"
+                    VPOS="744"
+                    WIDTH="926"
+                    HEIGHT="47"
+                    WC="0.9998854791245809"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9b5728f6"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 812 2231 818" 
+                    HPOS="1259"
+                    VPOS="783"
+                    WIDTH="972"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1260 812 1259 826 1288 838 1290 838 1292 839 1403 839 1403 838 1405 838 1407 838 1407 836 1414 828 1438 838 1440 838 1442 838 1906 830 2042 841 2044 841 2229 830 2231 818 2231 789 1260 783 1260 812"/></Shape>
+            <String CONTENT="прос о созыве «Зарубежного Съезда» для"
+                    HPOS="1259"
+                    VPOS="783"
+                    WIDTH="972"
+                    HEIGHT="58"
+                    WC="0.9988467583530828"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7dc79d16"
+                    TAGREFS="LT1379"
+                    BASELINE="298 853 1231 859" 
+                    HPOS="296"
+                    VPOS="826"
+                    WIDTH="935"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="298 853 296 869 1227 875 1231 859 1229 832 298 826 298 853"/></Shape>
+            <String CONTENT="По переезде во Франции А.П., по соглаше-"
+                    HPOS="296"
+                    VPOS="826"
+                    WIDTH="935"
+                    HEIGHT="49"
+                    WC="0.9975099489092827"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4466578f"
+                    TAGREFS="LT1379"
+                    BASELINE="1259 859 2229 855" 
+                    HPOS="1257"
+                    VPOS="830"
+                    WIDTH="972"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1259 859 1259 878 2227 875 2229 855 2223 830 1257 832 1259 859"/></Shape>
+            <String CONTENT="провозглашения главы Российского импера-"
+                    HPOS="1257"
+                    VPOS="830"
+                    WIDTH="972"
+                    HEIGHT="48"
+                    WC="0.9955000475049018"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_27eecb1e"
+                    TAGREFS="LT1379"
+                    BASELINE="255 902 1227 902" 
+                    HPOS="255"
+                    VPOS="875"
+                    WIDTH="972"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="255 902 255 919 1227 919 1227 902 1227 875 255 875 255 902"/></Shape>
+            <String CONTENT="нию с Атаманами других Войск, во всех офи-"
+                    HPOS="255"
+                    VPOS="875"
+                    WIDTH="972"
+                    HEIGHT="44"
+                    WC="0.9949432909488678"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_08699fb4"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 904 2231 904" 
+                    HPOS="1260"
+                    VPOS="877"
+                    WIDTH="971"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="1260 904 1260 919 2229 921 2231 904 2231 877 1260 877 1260 904"/></Shape>
+            <String CONTENT="торского Дома, А. П., по соглашению с Ата-"
+                    HPOS="1260"
+                    VPOS="877"
+                    WIDTH="971"
+                    HEIGHT="44"
+                    WC="0.9997758198352087"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_369481cd"
+                    TAGREFS="LT1379"
+                    BASELINE="257 945 1227 945" 
+                    HPOS="257"
+                    VPOS="919"
+                    WIDTH="970"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="257 945 257 966 1227 966 1227 945 1227 919 257 919 257 945"/></Shape>
+            <String CONTENT="циальных учреждениях, действует от их име-"
+                    HPOS="257"
+                    VPOS="919"
+                    WIDTH="970"
+                    HEIGHT="47"
+                    WC="0.9975848538534982"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_722ee460"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 945 2229 949" 
+                    HPOS="1259"
+                    VPOS="917"
+                    WIDTH="970"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1260 945 1259 960 2225 964 2229 949 2227 921 1260 917 1260 945"/></Shape>
+            <String CONTENT="манами других Войск, заявил, что это преро-"
+                    HPOS="1259"
+                    VPOS="917"
+                    WIDTH="970"
+                    HEIGHT="47"
+                    WC="0.9957373045211615"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9d2d0a71"
+                    TAGREFS="LT1379"
+                    BASELINE="255 988 1229 991" 
+                    HPOS="253"
+                    VPOS="960"
+                    WIDTH="976"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="255 988 253 1001 329 1013 331 1013 1227 1005 1229 991 1227 964 255 960 255 988"/></Shape>
+            <String CONTENT="ни для зашиты каз. интересов, содействию"
+                    HPOS="253"
+                    VPOS="960"
+                    WIDTH="976"
+                    HEIGHT="53"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_97bce8e6"
+                    TAGREFS="LT1379"
+                    BASELINE="1264 990 2231 993" 
+                    HPOS="1262"
+                    VPOS="960"
+                    WIDTH="969"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1264 990 1262 1005 1290 1017 1292 1017 1294 1017 2229 1009 2231 993 2231 964 1264 960 1264 990"/></Shape>
+            <String CONTENT="гатива всего русского народа, а что Съезд"
+                    HPOS="1262"
+                    VPOS="960"
+                    WIDTH="969"
+                    HEIGHT="57"
+                    WC="0.9997224633286639"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1c444023"
+                    TAGREFS="LT1379"
+                    BASELINE="255 1036 1227 1036" 
+                    HPOS="255"
+                    VPOS="1009"
+                    WIDTH="972"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="255 1036 255 1054 1227 1054 1227 1036 1227 1009 255 1009 255 1036"/></Shape>
+            <String CONTENT="казакам в переезде во Францию и т. д. По"
+                    HPOS="255"
+                    VPOS="1009"
+                    WIDTH="972"
+                    HEIGHT="45"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_024cbde6"
+                    TAGREFS="LT1379"
+                    BASELINE="1262 1038 2229 1034" 
+                    HPOS="1260"
+                    VPOS="1009"
+                    WIDTH="969"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1262 1038 1262 1054 2227 1050 2229 1034 2223 1009 1260 1011 1262 1038"/></Shape>
+            <String CONTENT="может себе лишь ставить задачу объедине-"
+                    HPOS="1260"
+                    VPOS="1009"
+                    WIDTH="969"
+                    HEIGHT="45"
+                    WC="0.9988716870546341"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0699a50d"
+                    TAGREFS="LT1379"
+                    BASELINE="255 1077 1227 1081" 
+                    HPOS="253"
+                    VPOS="1050"
+                    WIDTH="974"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="255 1077 253 1091 1223 1095 1227 1081 1225 1054 255 1050 255 1077"/></Shape>
+            <String CONTENT="его распоряжению, был создан Казачий Со-"
+                    HPOS="253"
+                    VPOS="1050"
+                    WIDTH="974"
+                    HEIGHT="45"
+                    WC="0.9992084324359893"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d35b6c16"
+                    TAGREFS="LT1379"
+                    BASELINE="1259 1083 2229 1079" 
+                    HPOS="1257"
+                    VPOS="1052"
+                    WIDTH="972"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1259 1083 1259 1101 2227 1099 2229 1079 2223 1052 1257 1054 1259 1083"/></Shape>
+            <String CONTENT="ния эмиграции для борьбы с советской вла-"
+                    HPOS="1257"
+                    VPOS="1052"
+                    WIDTH="972"
+                    HEIGHT="49"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e92dc4bc"
+                    TAGREFS="LT1379"
+                    BASELINE="255 1124 1229 1124" 
+                    HPOS="255"
+                    VPOS="1101"
+                    WIDTH="974"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="255 1124 255 1138 319 1149 321 1149 323 1149 350 1140 473 1149 475 1149 693 1140 1103 1140 1153 1149 1155 1149 1229 1138 1229 1124 1229 1101 255 1101 255 1124"/></Shape>
+            <String CONTENT="юз., объединивший не только каз. орга-"
+                    HPOS="255"
+                    VPOS="1101"
+                    WIDTH="974"
+                    HEIGHT="48"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9acb6154"
+                    TAGREFS="LT1379"
+                    BASELINE="1259 1124 2106 1128" 
+                    HPOS="1257"
+                    VPOS="1097"
+                    WIDTH="849"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="1259 1124 1257 1140 2102 1143 2106 1128 2104 1101 1259 1097 1259 1124"/></Shape>
+            <String CONTENT="стью, и от участия в Съезде отказался."
+                    HPOS="1257"
+                    VPOS="1097"
+                    WIDTH="849"
+                    HEIGHT="46"
+                    WC="0.9867988134685316"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8218f991"
+                    TAGREFS="LT1379"
+                    BASELINE="255 1167 1223 1171" 
+                    HPOS="253"
+                    VPOS="1138"
+                    WIDTH="970"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="255 1167 253 1182 1220 1186 1223 1171 1221 1142 255 1138 255 1167"/></Shape>
+            <String CONTENT="низации во Франции, но и разбросанные по"
+                    HPOS="253"
+                    VPOS="1138"
+                    WIDTH="970"
+                    HEIGHT="48"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_758f2bcc"
+                    TAGREFS="LT1379"
+                    BASELINE="255 1214 1223 1218" 
+                    HPOS="253"
+                    VPOS="1186"
+                    WIDTH="970"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="255 1214 253 1227 1220 1231 1223 1218 1221 1190 255 1186 255 1214"/></Shape>
+            <String CONTENT="всему миру. В него вошло более 200 каз. ор-"
+                    HPOS="253"
+                    VPOS="1186"
+                    WIDTH="970"
+                    HEIGHT="45"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_417a57e9"
+                    TAGREFS="LT1379"
+                    BASELINE="1303 1184 2233 1181" 
+                    HPOS="1301"
+                    VPOS="1155"
+                    WIDTH="932"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1303 1184 1303 1204 2231 1204 2233 1181 2227 1155 1301 1157 1303 1184"/></Shape>
+            <String CONTENT="Позже по этому поводу он писал от имени"
+                    HPOS="1301"
+                    VPOS="1155"
+                    WIDTH="932"
+                    HEIGHT="49"
+                    WC="0.9819638988910577"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7c6ba87f"
+                    TAGREFS="LT1379"
+                    BASELINE="255 1258 1225 1262" 
+                    HPOS="253"
+                    VPOS="1227"
+                    WIDTH="972"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="255 1258 253 1274 1221 1278 1225 1262 1223 1231 255 1227 255 1258"/></Shape>
+            <String CONTENT="ганизации и не только донских, но и других"
+                    HPOS="253"
+                    VPOS="1227"
+                    WIDTH="972"
+                    HEIGHT="51"
+                    WC="0.9966592391331991"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cd140863"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 1227 2229 1227" 
+                    HPOS="1260"
+                    VPOS="1202"
+                    WIDTH="969"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1260 1227 1260 1247 2229 1247 2229 1227 2229 1202 1260 1202 1260 1227"/></Shape>
+            <String CONTENT="Объединенного Совета Д. К. и Т. по пору-"
+                    HPOS="1260"
+                    VPOS="1202"
+                    WIDTH="969"
+                    HEIGHT="45"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d6077a97"
+                    TAGREFS="LT1379"
+                    BASELINE="257 1301 1221 1307" 
+                    HPOS="255"
+                    VPOS="1270"
+                    WIDTH="966"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="257 1301 255 1315 1218 1321 1221 1307 1220 1274 257 1270 257 1301"/></Shape>
+            <String CONTENT="Войск, и не мало казаков «одиночек», не"
+                    HPOS="255"
+                    VPOS="1270"
+                    WIDTH="966"
+                    HEIGHT="51"
+                    WC="0.990836942807222"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5705ee95"
+                    TAGREFS="LT1379"
+                    BASELINE="1262 1270 2229 1274" 
+                    HPOS="1260"
+                    VPOS="1243"
+                    WIDTH="969"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1262 1270 1260 1284 1752 1297 1754 1297 2227 1288 2229 1274 2227 1247 1262 1243 1262 1270"/></Shape>
+            <String CONTENT="чению всех его членов, что« казачество, не-"
+                    HPOS="1260"
+                    VPOS="1243"
+                    WIDTH="969"
+                    HEIGHT="54"
+                    WC="0.9999355507451434"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2f7643a3"
+                    TAGREFS="LT1379"
+                    BASELINE="257 1346 1223 1350" 
+                    HPOS="255"
+                    VPOS="1319"
+                    WIDTH="968"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="257 1346 255 1364 1220 1366 1223 1350 1221 1323 257 1319 257 1346"/></Shape>
+            <String CONTENT="входивших в организацию. Техническое ру-"
+                    HPOS="255"
+                    VPOS="1319"
+                    WIDTH="968"
+                    HEIGHT="47"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a1c29f21"
+                    TAGREFS="LT1379"
+                    BASELINE="1262 1319 2231 1319" 
+                    HPOS="1262"
+                    VPOS="1294"
+                    WIDTH="969"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="1262 1319 1262 1336 2231 1336 2231 1319 2231 1294 1262 1294 1262 1319"/></Shape>
+            <String CONTENT="смотря ни на что, должно существовать » и"
+                    HPOS="1262"
+                    VPOS="1294"
+                    WIDTH="969"
+                    HEIGHT="42"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4028a4d3"
+                    TAGREFS="LT1379"
+                    BASELINE="255 1395 1225 1395" 
+                    HPOS="255"
+                    VPOS="1368"
+                    WIDTH="970"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="255 1395 255 1407 1223 1410 1225 1395 1225 1368 255 1368 255 1395"/></Shape>
+            <String CONTENT="ководство Союза было возложено на его"
+                    HPOS="255"
+                    VPOS="1368"
+                    WIDTH="970"
+                    HEIGHT="42"
+                    WC="0.9997465320535608"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bca018c8"
+                    TAGREFS="LT1379"
+                    BASELINE="1264 1362 2231 1362" 
+                    HPOS="1264"
+                    VPOS="1334"
+                    WIDTH="967"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1264 1362 1264 1377 1453 1389 1455 1389 1576 1379 2178 1389 2180 1389 2231 1377 2231 1362 2231 1334 1264 1334 1264 1362"/></Shape>
+            <String CONTENT="что напрасно некоторые казаки «разбре-"
+                    HPOS="1264"
+                    VPOS="1334"
+                    WIDTH="967"
+                    HEIGHT="55"
+                    WC="0.9893738941142434"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_43d8515e"
+                    TAGREFS="LT1379"
+                    BASELINE="255 1438 1221 1442" 
+                    HPOS="253"
+                    VPOS="1407"
+                    WIDTH="968"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="255 1438 253 1453 1218 1457 1221 1442 1220 1410 255 1407 255 1438"/></Shape>
+            <String CONTENT="правление, но во главе его стоял Донской Ата-"
+                    HPOS="253"
+                    VPOS="1407"
+                    WIDTH="968"
+                    HEIGHT="50"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3453fc09"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 1405 2233 1409" 
+                    HPOS="1259"
+                    VPOS="1377"
+                    WIDTH="974"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1260 1405 1259 1420 2229 1426 2233 1409 2231 1381 1260 1377 1260 1405"/></Shape>
+            <String CONTENT="пись», по разным общеросийским партиям"
+                    HPOS="1259"
+                    VPOS="1377"
+                    WIDTH="974"
+                    HEIGHT="49"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_aca2d49c"
+                    TAGREFS="LT1379"
+                    BASELINE="259 1481 1223 1487" 
+                    HPOS="257"
+                    VPOS="1451"
+                    WIDTH="966"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="259 1481 257 1494 1220 1498 1223 1487 1221 1453 259 1451 259 1481"/></Shape>
+            <String CONTENT="ман А.П. Богаевский. Когда же позже в"
+                    HPOS="257"
+                    VPOS="1451"
+                    WIDTH="966"
+                    HEIGHT="47"
+                    WC="0.9852362178467415"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_06fe992b"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 1451 2231 1451" 
+                    HPOS="1260"
+                    VPOS="1424"
+                    WIDTH="971"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1260 1451 1260 1469 2229 1477 2231 1451 2231 1424 1260 1424 1260 1451"/></Shape>
+            <String CONTENT="и что «у казака в настоящее время должна"
+                    HPOS="1260"
+                    VPOS="1424"
+                    WIDTH="971"
+                    HEIGHT="53"
+                    WC="0.9898682042956353"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_313401b8"
+                    TAGREFS="LT1379"
+                    BASELINE="257 1524 1223 1527" 
+                    HPOS="255"
+                    VPOS="1496"
+                    WIDTH="968"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="257 1524 255 1541 1220 1545 1223 1527 1221 1500 257 1496 257 1524"/></Shape>
+            <String CONTENT="1933-34 гг. была попытка создать новый Со-"
+                    HPOS="255"
+                    VPOS="1496"
+                    WIDTH="968"
+                    HEIGHT="49"
+                    WC="0.9998258593536559"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a3171f62"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 1492 2233 1496" 
+                    HPOS="1259"
+                    VPOS="1467"
+                    WIDTH="974"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1260 1492 1259 1510 1264 1516 1264 1518 1266 1518 1268 1518 1270 1518 2231 1510 2233 1496 2231 1469 1260 1467 1260 1492"/></Shape>
+            <String CONTENT="быть одна партия - казачья », мы должны"
+                    HPOS="1259"
+                    VPOS="1467"
+                    WIDTH="974"
+                    HEIGHT="51"
+                    WC="0.9936802631769425"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_53cb79fa"
+                    TAGREFS="LT1379"
+                    BASELINE="257 1572 1221 1572" 
+                    HPOS="257"
+                    VPOS="1543"
+                    WIDTH="964"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="257 1572 257 1592 1221 1592 1221 1572 1221 1543 257 1543 257 1572"/></Shape>
+            <String CONTENT="юз, без возглавления его А. П., то из этого ни-"
+                    HPOS="257"
+                    VPOS="1543"
+                    WIDTH="964"
+                    HEIGHT="49"
+                    WC="0.9972517667932713"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d43b6b10"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 1541 2229 1541" 
+                    HPOS="1260"
+                    VPOS="1514"
+                    WIDTH="969"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1260 1541 1260 1559 2229 1559 2229 1541 2229 1514 1260 1514 1260 1541"/></Shape>
+            <String CONTENT="объединиться и крепко сплотиться», « ка-"
+                    HPOS="1260"
+                    VPOS="1514"
+                    WIDTH="969"
+                    HEIGHT="45"
+                    WC="0.9819855496287346"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_96c09f1f"
+                    TAGREFS="LT1379"
+                    BASELINE="257 1613 580 1617" 
+                    HPOS="255"
+                    VPOS="1586"
+                    WIDTH="325"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="257 1613 255 1631 576 1635 580 1617 578 1590 257 1586 257 1613"/></Shape>
+            <String CONTENT="чего не вышло."
+                    HPOS="255"
+                    VPOS="1586"
+                    WIDTH="325"
+                    HEIGHT="49"
+                    WC="0.9999979478972298"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8221f1c8"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 1586 2231 1586" 
+                    HPOS="1260"
+                    VPOS="1559"
+                    WIDTH="971"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="1260 1586 1260 1603 2231 1603 2231 1586 2231 1559 1260 1559 1260 1586"/></Shape>
+            <String CONTENT="зачество еще не сказало своего последнего"
+                    HPOS="1260"
+                    VPOS="1559"
+                    WIDTH="971"
+                    HEIGHT="44"
+                    WC="0.9990965622227367"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_be9e4334"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 1633 2231 1629" 
+                    HPOS="1259"
+                    VPOS="1601"
+                    WIDTH="972"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1260 1633 1260 1650 2229 1646 2231 1629 2225 1601 1259 1603 1260 1633"/></Shape>
+            <String CONTENT="слова... » Эти его слова актуальны и в на-"
+                    HPOS="1259"
+                    VPOS="1601"
+                    WIDTH="972"
+                    HEIGHT="49"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_23dc19dd"
+                    TAGREFS="LT1379"
+                    BASELINE="296 1674 1233 1677" 
+                    HPOS="294"
+                    VPOS="1644"
+                    WIDTH="939"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="296 1674 294 1687 1229 1691 1233 1677 1233 1648 296 1644 296 1674"/></Shape>
+            <String CONTENT="Позднее А. П. организовал в интересах ка-"
+                    HPOS="294"
+                    VPOS="1644"
+                    WIDTH="939"
+                    HEIGHT="47"
+                    WC="0.988691418636136"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f46f11fb"
+                    TAGREFS="LT1379"
+                    BASELINE="1253 1677 1596 1677" 
+                    HPOS="1253"
+                    VPOS="1648"
+                    WIDTH="343"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1253 1677 1253 1693 1596 1693 1596 1677 1596 1648 1253 1648 1253 1677"/></Shape>
+            <String CONTENT="стоящее время."
+                    HPOS="1253"
+                    VPOS="1648"
+                    WIDTH="343"
+                    HEIGHT="45"
+                    WC="0.989037811756134"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3a9f89da"
+                    TAGREFS="LT1379"
+                    BASELINE="257 1716 1227 1720" 
+                    HPOS="255"
+                    VPOS="1687"
+                    WIDTH="972"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="257 1716 255 1734 1223 1738 1227 1720 1225 1691 257 1687 257 1716"/></Shape>
+            <String CONTENT="заков приживавших во Франции и для боль-"
+                    HPOS="255"
+                    VPOS="1687"
+                    WIDTH="972"
+                    HEIGHT="51"
+                    WC="0.9997446447610855"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_04107c0e"
+                    TAGREFS="LT1379"
+                    BASELINE="1301 1722 2231 1718" 
+                    HPOS="1299"
+                    VPOS="1681"
+                    WIDTH="932"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1301 1722 1301 1740 2229 1736 2231 1718 2227 1691 1826 1681 1824 1681 1757 1693 1299 1693 1301 1722"/></Shape>
+            <String CONTENT="Находясь во Франции, А. П. был предста-"
+                    HPOS="1299"
+                    VPOS="1681"
+                    WIDTH="932"
+                    HEIGHT="59"
+                    WC="0.9741282279674823"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_02159887"
+                    TAGREFS="LT1379"
+                    BASELINE="257 1763 1229 1763" 
+                    HPOS="257"
+                    VPOS="1736"
+                    WIDTH="972"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="257 1763 257 1779 1229 1779 1229 1763 1229 1736 257 1736 257 1763"/></Shape>
+            <String CONTENT="шего веса своих выступлений и хлопот от"
+                    HPOS="257"
+                    VPOS="1736"
+                    WIDTH="972"
+                    HEIGHT="43"
+                    WC="0.9974947632887424"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_54d09c56"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 1765 2229 1761" 
+                    HPOS="1259"
+                    VPOS="1736"
+                    WIDTH="970"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1260 1765 1260 1781 2227 1777 2229 1761 2223 1736 1259 1738 1260 1765"/></Shape>
+            <String CONTENT="вителем О. С. Д. К. и Т. и выступал от его"
+                    HPOS="1259"
+                    VPOS="1736"
+                    WIDTH="970"
+                    HEIGHT="45"
+                    WC="0.9963815254824502"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0de9073f"
+                    TAGREFS="LT1379"
+                    BASELINE="255 1804 1229 1810" 
+                    HPOS="253"
+                    VPOS="1775"
+                    WIDTH="976"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="255 1804 253 1818 578 1831 580 1831 1227 1824 1229 1810 1227 1781 255 1775 255 1804"/></Shape>
+            <String CONTENT="их имени геред Французскими властями -"
+                    HPOS="253"
+                    VPOS="1775"
+                    WIDTH="976"
+                    HEIGHT="56"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_375fcd93"
+                    TAGREFS="LT1379"
+                    BASELINE="1257 1810 1411 1810" 
+                    HPOS="1257"
+                    VPOS="1785"
+                    WIDTH="154"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1257 1810 1257 1830 1411 1830 1411 1810 1411 1785 1257 1785 1257 1810"/></Shape>
+            <String CONTENT="имени."
+                    HPOS="1257"
+                    VPOS="1785"
+                    WIDTH="154"
+                    HEIGHT="45"
+                    WC="0.9997900525728861"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_87c72c17"
+                    TAGREFS="LT1379"
+                    BASELINE="259 1849 1225 1853" 
+                    HPOS="257"
+                    VPOS="1824"
+                    WIDTH="968"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="259 1849 257 1861 362 1872 364 1872 715 1865 742 1874 744 1874 746 1874 1223 1865 1225 1853 1223 1828 259 1824 259 1849"/></Shape>
+            <String CONTENT="- « Союз Казаков - Комбатантов », им воз-"
+                    HPOS="257"
+                    VPOS="1824"
+                    WIDTH="968"
+                    HEIGHT="50"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_db1804f4"
+                    TAGREFS="LT1379"
+                    BASELINE="1301 1855 2235 1851" 
+                    HPOS="1299"
+                    VPOS="1818"
+                    WIDTH="936"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1301 1855 1301 1867 1761 1876 1763 1876 1884 1867 2219 1874 2221 1874 2223 1874 2225 1874 2235 1865 2235 1851 2231 1826 1307 1818 1305 1818 1303 1818 1301 1818 1301 1820 1299 1820 1301 1855"/></Shape>
+            <String CONTENT="В 1932г., по соглашению с Войсковыми"
+                    HPOS="1299"
+                    VPOS="1818"
+                    WIDTH="936"
+                    HEIGHT="58"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3b074b8c"
+                    TAGREFS="LT1379"
+                    BASELINE="257 1896 1225 1896" 
+                    HPOS="257"
+                    VPOS="1868"
+                    WIDTH="968"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="257 1896 257 1911 1223 1917 1225 1896 1225 1868 257 1868 257 1896"/></Shape>
+            <String CONTENT="главлямый. С этой же целью защиты каз."
+                    HPOS="257"
+                    VPOS="1868"
+                    WIDTH="968"
+                    HEIGHT="49"
+                    WC="0.9969168556363959"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e61916de"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 1902 2231 1896" 
+                    HPOS="1259"
+                    VPOS="1859"
+                    WIDTH="972"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1260 1902 1260 1919 2229 1913 2231 1896 2227 1868 1906 1859 1904 1859 1902 1859 1880 1868 1674 1861 1672 1861 1564 1870 1272 1863 1270 1863 1268 1863 1266 1863 1259 1867 1260 1902"/></Shape>
+            <String CONTENT="Атаманами других Войск, А. П. создал в Па-"
+                    HPOS="1259"
+                    VPOS="1859"
+                    WIDTH="972"
+                    HEIGHT="60"
+                    WC="0.9900369615781874"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0f40f239"
+                    TAGREFS="LT1379"
+                    BASELINE="255 1939 1229 1943" 
+                    HPOS="253"
+                    VPOS="1911"
+                    WIDTH="976"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="255 1939 253 1952 1225 1956 1229 1943 1227 1915 255 1911 255 1939"/></Shape>
+            <String CONTENT="интересов, он вошел в состав «Русского Эми-"
+                    HPOS="253"
+                    VPOS="1911"
+                    WIDTH="976"
+                    HEIGHT="45"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6f0eb342"
+                    TAGREFS="LT1379"
+                    BASELINE="1259 1944 2231 1941" 
+                    HPOS="1257"
+                    VPOS="1913"
+                    WIDTH="974"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1259 1944 1259 1962 2229 1958 2231 1941 2225 1913 1257 1915 1259 1944"/></Shape>
+            <String CONTENT="риже при себе совещательный орган под име-"
+                    HPOS="1257"
+                    VPOS="1913"
+                    WIDTH="974"
+                    HEIGHT="49"
+                    WC="0.9962091516880762"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f06e1994"
+                    TAGREFS="LT1379"
+                    BASELINE="255 1987 1225 1983" 
+                    HPOS="253"
+                    VPOS="1956"
+                    WIDTH="972"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="255 1987 255 2003 1223 1999 1225 1983 1220 1956 253 1958 255 1987"/></Shape>
+            <String CONTENT="грантского Комитета » во Франции, в кото-"
+                    HPOS="253"
+                    VPOS="1956"
+                    WIDTH="972"
+                    HEIGHT="47"
+                    WC="0.998680921589456"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f40e938a"
+                    TAGREFS="LT1379"
+                    BASELINE="1259 1989 2233 1985" 
+                    HPOS="1257"
+                    VPOS="1954"
+                    WIDTH="976"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1259 1989 1259 2005 2231 2001 2233 1985 2227 1954 1257 1962 1259 1989"/></Shape>
+            <String CONTENT="нем «Казачьего Совета», в который вошли"
+                    HPOS="1257"
+                    VPOS="1954"
+                    WIDTH="976"
+                    HEIGHT="51"
+                    WC="0.9942165414492289"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5d24fb26"
+                    TAGREFS="LT1379"
+                    BASELINE="257 2030 1225 2030" 
+                    HPOS="257"
+                    VPOS="2001"
+                    WIDTH="968"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="257 2030 257 2052 1225 2048 1225 2030 1225 2003 257 2001 257 2030"/></Shape>
+            <String CONTENT="гом пользовался большим уважением и где"
+                    HPOS="257"
+                    VPOS="2001"
+                    WIDTH="968"
+                    HEIGHT="51"
+                    WC="0.9931567509969076"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_64573ad8"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 2034 2231 2028" 
+                    HPOS="1259"
+                    VPOS="2003"
+                    WIDTH="972"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1260 2034 1260 2048 2229 2042 2231 2028 2225 2003 1259 2007 1260 2034"/></Shape>
+            <String CONTENT="представители не только Юго-Восточного"
+                    HPOS="1259"
+                    VPOS="2003"
+                    WIDTH="972"
+                    HEIGHT="45"
+                    WC="0.9999403435932962"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_68a559c8"
+                    TAGREFS="LT1379"
+                    BASELINE="255 2071 1229 2075" 
+                    HPOS="253"
+                    VPOS="2042"
+                    WIDTH="976"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="255 2071 253 2087 810 2100 812 2100 1227 2091 1229 2075 1227 2046 255 2042 255 2071"/></Shape>
+            <String CONTENT="к его голосу прислушивались и с ним счита-"
+                    HPOS="253"
+                    VPOS="2042"
+                    WIDTH="976"
+                    HEIGHT="58"
+                    WC="0.981011654649462"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_23559ee1"
+                    TAGREFS="LT1379"
+                    BASELINE="1259 2077 2227 2077" 
+                    HPOS="1259"
+                    VPOS="2052"
+                    WIDTH="968"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1259 2077 1259 2095 2225 2097 2227 2077 2227 2052 1259 2052 1259 2077"/></Shape>
+            <String CONTENT="казачества, но и представители Уральского,"
+                    HPOS="1259"
+                    VPOS="2052"
+                    WIDTH="968"
+                    HEIGHT="45"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2b9f1c88"
+                    TAGREFS="LT1379"
+                    BASELINE="257 2120 1229 2120" 
+                    HPOS="257"
+                    VPOS="2093"
+                    WIDTH="972"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="257 2120 257 2137 1229 2137 1229 2120 1229 2093 257 2093 257 2120"/></Shape>
+            <String CONTENT="лись, как с главой Донского Войска. Кроме"
+                    HPOS="257"
+                    VPOS="2093"
+                    WIDTH="972"
+                    HEIGHT="44"
+                    WC="0.9953132664285055"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f76f9190"
+                    TAGREFS="LT1379"
+                    BASELINE="1264 2122 2231 2118" 
+                    HPOS="1262"
+                    VPOS="2091"
+                    WIDTH="969"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1264 2122 1264 2139 2229 2137 2231 2118 2225 2091 1262 2093 1264 2122"/></Shape>
+            <String CONTENT="Оренбургского и некоторых других сибирских"
+                    HPOS="1262"
+                    VPOS="2091"
+                    WIDTH="969"
+                    HEIGHT="48"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e6063050"
+                    TAGREFS="LT1379"
+                    BASELINE="257 2163 1225 2167" 
+                    HPOS="255"
+                    VPOS="2134"
+                    WIDTH="970"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="257 2163 255 2178 1221 2182 1225 2167 1223 2137 257 2134 257 2163"/></Shape>
+            <String CONTENT="того А. П. входил в целый ряд русских орга-"
+                    HPOS="255"
+                    VPOS="2134"
+                    WIDTH="970"
+                    HEIGHT="48"
+                    WC="0.9921543612036594"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9239e162"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 2169 2231 2161" 
+                    HPOS="1259"
+                    VPOS="2134"
+                    WIDTH="972"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1260 2169 1260 2186 2229 2178 2231 2161 2225 2134 1259 2141 1260 2169"/></Shape>
+            <String CONTENT="и дальне-восточных Войск. Еще до этого он"
+                    HPOS="1259"
+                    VPOS="2134"
+                    WIDTH="972"
+                    HEIGHT="52"
+                    WC="0.9996978989461573"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_acc47dbd"
+                    TAGREFS="LT1379"
+                    BASELINE="255 2206 1225 2210" 
+                    HPOS="253"
+                    VPOS="2176"
+                    WIDTH="972"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="255 2206 253 2217 284 2229 286 2229 288 2229 1223 2221 1225 2210 1223 2180 255 2176 255 2206"/></Shape>
+            <String CONTENT="низаций : «Комитетом помощи студентам »,"
+                    HPOS="253"
+                    VPOS="2176"
+                    WIDTH="972"
+                    HEIGHT="53"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9b5e5e6e"
+                    TAGREFS="LT1379"
+                    BASELINE="1262 2210 2231 2210" 
+                    HPOS="1262"
+                    VPOS="2182"
+                    WIDTH="969"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1262 2210 1262 2233 2231 2225 2231 2210 2231 2182 1262 2182 1262 2210"/></Shape>
+            <String CONTENT="установил связь с Дально-Восточным Каза-"
+                    HPOS="1262"
+                    VPOS="2182"
+                    WIDTH="969"
+                    HEIGHT="51"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_992f9ae6"
+                    TAGREFS="LT1379"
+                    BASELINE="255 2250 1227 2254" 
+                    HPOS="253"
+                    VPOS="2219"
+                    WIDTH="974"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="255 2250 253 2268 1223 2272 1227 2254 1225 2223 255 2219 255 2250"/></Shape>
+            <String CONTENT="благодаря ему было оказано не мало помощи"
+                    HPOS="253"
+                    VPOS="2219"
+                    WIDTH="974"
+                    HEIGHT="53"
+                    WC="0.9994091667780062"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6411a570"
+                    TAGREFS="LT1379"
+                    BASELINE="1262 2256 2231 2252" 
+                    HPOS="1260"
+                    VPOS="2227"
+                    WIDTH="971"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1262 2256 1262 2272 2229 2270 2231 2252 2225 2227 1260 2229 1262 2256"/></Shape>
+            <String CONTENT="чьим Союзом и с отдельными Войсковыми"
+                    HPOS="1260"
+                    VPOS="2227"
+                    WIDTH="971"
+                    HEIGHT="45"
+                    WC="0.9979684256218575"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dc2c3c1a"
+                    TAGREFS="LT1379"
+                    BASELINE="257 2295 1227 2299" 
+                    HPOS="255"
+                    VPOS="2268"
+                    WIDTH="972"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="257 2295 255 2309 966 2321 968 2321 1225 2311 1227 2299 1225 2272 257 2268 257 2295"/></Shape>
+            <String CONTENT="казакам-студентам, «Совете при русском"
+                    HPOS="255"
+                    VPOS="2268"
+                    WIDTH="972"
+                    HEIGHT="53"
+                    WC="0.9994643801137021"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6b27f733"
+                    TAGREFS="LT1379"
+                    BASELINE="1262 2299 2231 2299" 
+                    HPOS="1262"
+                    VPOS="2272"
+                    WIDTH="969"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1262 2299 1262 2319 2231 2319 2231 2299 2231 2272 1262 2272 1262 2299"/></Shape>
+            <String CONTENT="Атаманами Азиатских Войск, многие из кото-"
+                    HPOS="1262"
+                    VPOS="2272"
+                    WIDTH="969"
+                    HEIGHT="47"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_33dd213c"
+                    TAGREFS="LT1379"
+                    BASELINE="255 2342 1225 2342" 
+                    HPOS="255"
+                    VPOS="2317"
+                    WIDTH="970"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="255 2342 255 2360 1225 2360 1225 2342 1225 2317 255 2317 255 2342"/></Shape>
+            <String CONTENT="православном соборе на рю Дарю », « Попе-"
+                    HPOS="255"
+                    VPOS="2317"
+                    WIDTH="970"
+                    HEIGHT="43"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0ee9aa81"
+                    TAGREFS="LT1379"
+                    BASELINE="1262 2346 2231 2342" 
+                    HPOS="1260"
+                    VPOS="2317"
+                    WIDTH="971"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1262 2346 1262 2365 2229 2365 2231 2342 2225 2317 1260 2319 1262 2346"/></Shape>
+            <String CONTENT="рых передали ему их представительство на"
+                    HPOS="1260"
+                    VPOS="2317"
+                    WIDTH="971"
+                    HEIGHT="48"
+                    WC="0.9975163847208023"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_532dd838"
+                    TAGREFS="LT1379"
+                    BASELINE="257 2387 1229 2387" 
+                    HPOS="257"
+                    VPOS="2360"
+                    WIDTH="972"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="257 2387 257 2402 1229 2402 1229 2387 1229 2360 257 2360 257 2387"/></Shape>
+            <String CONTENT="чительных Советах» русского кадетского"
+                    HPOS="257"
+                    VPOS="2360"
+                    WIDTH="972"
+                    HEIGHT="42"
+                    WC="0.9999098887569026"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_86bc745e"
+                    TAGREFS="LT1379"
+                    BASELINE="1262 2389 2231 2385" 
+                    HPOS="1260"
+                    VPOS="2358"
+                    WIDTH="971"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1262 2389 1262 2406 2229 2402 2231 2385 2225 2358 1260 2360 1262 2389"/></Shape>
+            <String CONTENT="западе Европы. Таким образом А.П. Являл-"
+                    HPOS="1260"
+                    VPOS="2358"
+                    WIDTH="971"
+                    HEIGHT="48"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4bfbb13f"
+                    TAGREFS="LT1379"
+                    BASELINE="255 2428 1229 2434" 
+                    HPOS="253"
+                    VPOS="2401"
+                    WIDTH="976"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="255 2428 253 2443 1225 2449 1229 2434 1227 2406 255 2401 255 2428"/></Shape>
+            <String CONTENT="корпуса в Версале, и русской гимназии в Па-"
+                    HPOS="253"
+                    VPOS="2401"
+                    WIDTH="976"
+                    HEIGHT="48"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_903cf23b"
+                    TAGREFS="LT1379"
+                    BASELINE="1259 2434 2231 2428" 
+                    HPOS="1257"
+                    VPOS="2401"
+                    WIDTH="974"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1259 2434 1259 2451 2229 2445 2231 2428 2225 2401 1257 2404 1259 2434"/></Shape>
+            <String CONTENT="ся как бы главой всех каз. Войск в защите"
+                    HPOS="1257"
+                    VPOS="2401"
+                    WIDTH="974"
+                    HEIGHT="50"
+                    WC="0.9969921620880685"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5f146184"
+                    TAGREFS="LT1379"
+                    BASELINE="255 2475 1229 2478" 
+                    HPOS="253"
+                    VPOS="2445"
+                    WIDTH="976"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="255 2475 253 2496 1227 2492 1229 2478 1227 2449 255 2445 255 2475"/></Shape>
+            <String CONTENT="риже и интерната для мальчиков в париж-"
+                    HPOS="253"
+                    VPOS="2445"
+                    WIDTH="976"
+                    HEIGHT="51"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_04a23564"
+                    TAGREFS="LT1379"
+                    BASELINE="1257 2478 1757 2475" 
+                    HPOS="1255"
+                    VPOS="2443"
+                    WIDTH="502"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1257 2478 1257 2498 1754 2500 1757 2475 1752 2443 1255 2445 1257 2478"/></Shape>
+            <String CONTENT="их интересов в Европе."
+                    HPOS="1255"
+                    VPOS="2443"
+                    WIDTH="502"
+                    HEIGHT="57"
+                    WC="0.9995409250259399"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3719cc83"
+                    TAGREFS="LT1379"
+                    BASELINE="257 2519 1227 2519" 
+                    HPOS="257"
+                    VPOS="2494"
+                    WIDTH="970"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="257 2519 257 2533 409 2545 411 2545 1227 2533 1227 2519 1227 2494 257 2494 257 2519"/></Shape>
+            <String CONTENT="ском предместии. Тогда же он помог быв-"
+                    HPOS="257"
+                    VPOS="2494"
+                    WIDTH="970"
+                    HEIGHT="51"
+                    WC="0.9912788837383955"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b94ff7b6"
+                    TAGREFS="LT1379"
+                    BASELINE="1303 2523 2231 2519" 
+                    HPOS="1301"
+                    VPOS="2492"
+                    WIDTH="930"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1303 2523 1303 2539 2229 2535 2231 2519 2225 2492 1301 2494 1303 2523"/></Shape>
+            <String CONTENT="И в Обще-Воинском Союзе, и многих дру-"
+                    HPOS="1301"
+                    VPOS="2492"
+                    WIDTH="930"
+                    HEIGHT="47"
+                    WC="0.9993557365317094"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2b30a2ba"
+                    TAGREFS="LT1379"
+                    BASELINE="255 2562 1227 2568" 
+                    HPOS="253"
+                    VPOS="2533"
+                    WIDTH="974"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="255 2562 253 2576 1223 2582 1227 2568 1225 2539 255 2533 255 2562"/></Shape>
+            <String CONTENT="шему преподавателю Закона Божьего в Дон."
+                    HPOS="253"
+                    VPOS="2533"
+                    WIDTH="974"
+                    HEIGHT="49"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bbb6d2bd"
+                    TAGREFS="LT1379"
+                    BASELINE="1257 2568 2231 2562" 
+                    HPOS="1255"
+                    VPOS="2535"
+                    WIDTH="976"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1257 2568 1257 2584 2231 2578 2231 2562 2225 2535 1255 2539 1257 2568"/></Shape>
+            <String CONTENT="гих общерусских организациях, с ним счита-"
+                    HPOS="1255"
+                    VPOS="2535"
+                    WIDTH="976"
+                    HEIGHT="49"
+                    WC="0.9993683568068913"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7a16ea60"
+                    TAGREFS="LT1379"
+                    BASELINE="257 2605 1225 2609" 
+                    HPOS="255"
+                    VPOS="2572"
+                    WIDTH="970"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="257 2605 255 2623 1221 2627 1225 2609 1223 2584 257 2572 257 2605"/></Shape>
+            <String CONTENT="Кадет. Корпусе отцу Димитрию Троицкому"
+                    HPOS="255"
+                    VPOS="2572"
+                    WIDTH="970"
+                    HEIGHT="55"
+                    WC="0.9998322897835782"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7db95692"
+                    TAGREFS="LT1379"
+                    BASELINE="1262 2613 2229 2609" 
+                    HPOS="1260"
+                    VPOS="2584"
+                    WIDTH="969"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1262 2613 1262 2629 2227 2625 2229 2609 2223 2584 1260 2586 1262 2613"/></Shape>
+            <String CONTENT="лись и к его голосу прислушивались - ка-"
+                    HPOS="1260"
+                    VPOS="2584"
+                    WIDTH="969"
+                    HEIGHT="45"
+                    WC="0.9998439833521843"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6b736c8b"
+                    TAGREFS="LT1379"
+                    BASELINE="257 2654 1227 2654" 
+                    HPOS="257"
+                    VPOS="2627"
+                    WIDTH="970"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="257 2654 257 2671 1227 2671 1227 2654 1227 2627 257 2627 257 2654"/></Shape>
+            <String CONTENT="в устойстве в 15 арандисмане Парижа цер-"
+                    HPOS="257"
+                    VPOS="2627"
+                    WIDTH="970"
+                    HEIGHT="44"
+                    WC="0.99831902384758"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fcd9921f"
+                    TAGREFS="LT1379"
+                    BASELINE="1260 2658 1939 2652" 
+                    HPOS="1259"
+                    VPOS="2625"
+                    WIDTH="680"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1260 2658 1260 2675 1939 2673 1939 2652 1933 2625 1259 2629 1260 2658"/></Shape>
+            <String CONTENT="зачье знамя он держал высоко."
+                    HPOS="1259"
+                    VPOS="2625"
+                    WIDTH="680"
+                    HEIGHT="50"
+                    WC="0.9999744172753959"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5e7cb8e7"
+                    TAGREFS="LT1379"
+                    BASELINE="255 2695 1225 2699" 
+                    HPOS="253"
+                    VPOS="2668"
+                    WIDTH="972"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="255 2695 253 2712 1221 2716 1225 2699 1223 2671 255 2668 255 2695"/></Shape>
+            <String CONTENT="кви Преподобного Серафима Саровского, где"
+                    HPOS="253"
+                    VPOS="2668"
+                    WIDTH="972"
+                    HEIGHT="48"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_54c90fbb"
+                    TAGREFS="LT1379"
+                    BASELINE="1305 2701 2233 2697" 
+                    HPOS="1303"
+                    VPOS="2669"
+                    WIDTH="930"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1305 2701 1305 2714 2233 2710 2233 2697 2227 2669 1303 2671 1305 2701"/></Shape>
+            <String CONTENT="Когда во Франции создалась организация"
+                    HPOS="1303"
+                    VPOS="2669"
+                    WIDTH="930"
+                    HEIGHT="45"
+                    WC="0.9999386009417082"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_61162368"
+                    TAGREFS="LT1379"
+                    BASELINE="257 2740 937 2745" 
+                    HPOS="255"
+                    VPOS="2710"
+                    WIDTH="682"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="257 2740 255 2753 933 2761 937 2745 935 2716 257 2710 257 2740"/></Shape>
+            <String CONTENT="был членом церковного совета."
+                    HPOS="255"
+                    VPOS="2710"
+                    WIDTH="682"
+                    HEIGHT="51"
+                    WC="0.9856084359103235"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c244cffb"
+                    TAGREFS="LT1379"
+                    BASELINE="1276 2745 2223 2742" 
+                    HPOS="1274"
+                    VPOS="2714"
+                    WIDTH="949"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1276 2745 1276 2761 2221 2757 2223 2742 2217 2714 1274 2716 1276 2745"/></Shape>
+            <String CONTENT="«Борьба за Россию», которая пыталась ак-"
+                    HPOS="1274"
+                    VPOS="2714"
+                    WIDTH="949"
+                    HEIGHT="47"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4e12b29b"
+                    TAGREFS="LT1379"
+                    BASELINE="298 2788 1231 2784" 
+                    HPOS="296"
+                    VPOS="2751"
+                    WIDTH="935"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="298 2788 298 2806 1229 2802 1231 2784 1227 2759 311 2751 309 2751 307 2751 305 2751 296 2757 298 2788"/></Shape>
+            <String CONTENT="Африкан Петрович был почетным предсе-"
+                    HPOS="296"
+                    VPOS="2751"
+                    WIDTH="935"
+                    HEIGHT="55"
+                    WC="0.9993676623782596"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d660b806"
+                    TAGREFS="LT1379"
+                    BASELINE="1255 2788 2229 2784" 
+                    HPOS="1253"
+                    VPOS="2757"
+                    WIDTH="976"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1255 2788 1255 2808 2227 2804 2229 2784 2223 2757 1253 2759 1255 2788"/></Shape>
+            <String CONTENT="тивно работать против большевиков на месте"
+                    HPOS="1253"
+                    VPOS="2757"
+                    WIDTH="976"
+                    HEIGHT="51"
+                    WC="0.9885669506731487"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_15dade0c"
+                    TAGREFS="LT1379"
+                    BASELINE="257 2829 1229 2833" 
+                    HPOS="255"
+                    VPOS="2800"
+                    WIDTH="974"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="257 2829 255 2847 1227 2847 1229 2833 1227 2804 257 2800 257 2829"/></Shape>
+            <String CONTENT="дателем «Кружка Казаков - Литераторов» и"
+                    HPOS="255"
+                    VPOS="2800"
+                    WIDTH="974"
+                    HEIGHT="47"
+                    WC="0.9792962789535522"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_eb8a7b85"
+                    TAGREFS="LT1379"
+                    BASELINE="1255 2833 2229 2829" 
+                    HPOS="1253"
+                    VPOS="2804"
+                    WIDTH="976"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1255 2833 1255 2851 2227 2847 2229 2829 2223 2804 1253 2806 1255 2833"/></Shape>
+            <String CONTENT="в России, А. П. принял в ней участие и на-"
+                    HPOS="1253"
+                    VPOS="2804"
+                    WIDTH="976"
+                    HEIGHT="47"
+                    WC="0.9959198009400141"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3257b244"
+                    TAGREFS="LT1379"
+                    BASELINE="270 2872 1231 2878" 
+                    HPOS="268"
+                    VPOS="2845"
+                    WIDTH="963"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="270 2872 268 2888 1227 2894 1231 2878 1229 2851 270 2845 270 2872"/></Shape>
+            <String CONTENT="Объединения бывших воспитанников Дон."
+                    HPOS="268"
+                    VPOS="2845"
+                    WIDTH="963"
+                    HEIGHT="49"
+                    WC="0.9999220806199152"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_49cfc56d"
+                    TAGREFS="LT1379"
+                    BASELINE="1255 2880 2231 2874" 
+                    HPOS="1253"
+                    VPOS="2849"
+                    WIDTH="978"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="2227 2864 2225 2849 1253 2853 1255 2880 1255 2892 1572 2901 1574 2901 1576 2901 1578 2901 1578 2899 1580 2899 1586 2892 1841 2899 1843 2899 2231 2888 2231 2874 2229 2866 2227 2864"/></Shape>
+            <String CONTENT="стоял на том, чтобы посылалась бы также"
+                    HPOS="1253"
+                    VPOS="2849"
+                    WIDTH="978"
+                    HEIGHT="52"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a1b86e63"
+                    TAGREFS="LT1379"
+                    BASELINE="261 2921 1229 2919" 
+                    HPOS="259"
+                    VPOS="2892"
+                    WIDTH="970"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="261 2921 261 2936 547 2936 600 2946 602 2946 1229 2936 1229 2919 1223 2892 259 2892 261 2921"/></Shape>
+            <String CONTENT="Кадетского Корпуса », почетным членом"
+                    HPOS="259"
+                    VPOS="2892"
+                    WIDTH="970"
+                    HEIGHT="54"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9f3350ef"
+                    TAGREFS="LT1379"
+                    BASELINE="1257 2923 2229 2919" 
+                    HPOS="1255"
+                    VPOS="2894"
+                    WIDTH="974"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1257 2923 1257 2942 2227 2938 2229 2919 2223 2894 1255 2896 1257 2923"/></Shape>
+            <String CONTENT="в Россию литература специально для каза-"
+                    HPOS="1255"
+                    VPOS="2894"
+                    WIDTH="974"
+                    HEIGHT="48"
+                    WC="0.999988530576229"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ed69c124"
+                    TAGREFS="LT1379"
+                    BASELINE="286 2962 1900 2966" 
+                    HPOS="284"
+                    VPOS="2936"
+                    WIDTH="1616"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="286 2962 284 2981 1896 2983 1900 2966 1898 2940 286 2936 286 2962"/></Shape>
+            <String CONTENT="Союза Георгиевспих кавалеров », Объеди- ков, написанная казаками же."
+                    HPOS="284"
+                    VPOS="2936"
+                    WIDTH="1616"
+                    HEIGHT="47"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e9969b5f"
+                    TAGREFS="LT1379"
+                    BASELINE="1169 3061 1321 3061" 
+                    HPOS="1169"
+                    VPOS="3038"
+                    WIDTH="152"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="1286 3057 1266 3057 1247 3040 1243 3038 1214 3038 1208 3042 1188 3053 1184 3038 1169 3038 1169 3061 1169 3079 1321 3079 1321 3061 1321 3038 1290 3038 1286 3057"/></Shape>
+            <String CONTENT="- 4 -"
+                    HPOS="1169"
+                    VPOS="3038"
+                    WIDTH="152"
+                    HEIGHT="41"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

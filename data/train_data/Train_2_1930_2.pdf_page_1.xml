@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Train_2_1930_2.pdf_page_1.png</fileName>
+      <fileIdentifier>pdf//Train_2_1930_2.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1379" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3508">
+        <TextBlock HPOS="447"
+                   VPOS="1306"
+                   WIDTH="1583"
+                   HEIGHT="942"
+                   ID="eSc_textblock_0ce2b6e1"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="447 1306 447 2248 2030 2248 2030 1306"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="559"
+                   VPOS="2672"
+                   WIDTH="1388"
+                   HEIGHT="290"
+                   ID="eSc_textblock_df5f5b51"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="559 2672 559 2962 1947 2962 1947 2672"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1049"
+                   VPOS="671"
+                   WIDTH="1009"
+                   HEIGHT="474"
+                   ID="eSc_textblock_bd2f6963"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="1049 671 1049 1145 2058 1145 2058 671"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="542"
+                   VPOS="526"
+                   WIDTH="479"
+                   HEIGHT="61"
+                   ID="eSc_textblock_07fa810d"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="542 526 542 587 1021 587 1021 526"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1462"
+                   VPOS="532"
+                   WIDTH="490"
+                   HEIGHT="78"
+                   ID="eSc_textblock_036e6e53"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1462 532 1462 610 1952 610 1952 532"/></Shape>
+        </TextBlock>
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_80680aa9"
+                    TAGREFS="LT1379"
+                    BASELINE="549 563 984 567" 
+                    HPOS="547"
+                    VPOS="528"
+                    WIDTH="437"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="978 561 959 530 939 530 920 530 900 530 881 530 861 530 842 530 822 530 803 530 783 530 764 530 744 530 725 530 705 530 686 530 666 530 647 530 627 530 608 530 588 530 569 530 551 553 549 563 547 586 627 598 629 598 672 590 690 604 690 606 692 606 694 606 696 606 797 592 818 608 820 608 822 608 824 608 982 590 984 567 984 530 978 528 978 561"/></Shape>
+            <String CONTENT="6-ой годъ изданія."
+                    HPOS="547"
+                    VPOS="528"
+                    WIDTH="437"
+                    HEIGHT="80"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_70ada0a9"
+                    TAGREFS="LT1379"
+                    BASELINE="1497 569 1926 565" 
+                    HPOS="1495"
+                    VPOS="530"
+                    WIDTH="431"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1906 532 1873 530 1865 530 1846 530 1826 530 1807 530 1787 530 1768 530 1748 530 1729 530 1727 530 1696 533 1647 530 1631 530 1612 530 1592 530 1573 530 1561 530 1555 533 1536 530 1534 530 1514 530 1495 547 1497 569 1497 594 1524 594 1542 610 1542 611 1544 611 1546 611 1548 611 1614 602 1686 611 1688 611 1690 611 1729 592 1898 610 1900 610 1902 610 1904 610 1926 594 1926 565 1924 559 1906 532"/></Shape>
+            <String CONTENT="15 февраля 1930 г."
+                    HPOS="1495"
+                    VPOS="530"
+                    WIDTH="431"
+                    HEIGHT="81"
+                    WC="0.9765522082646688"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_06038009"
+                    TAGREFS="LT1379"
+                    BASELINE="1084 758 1971 754" 
+                    HPOS="1082"
+                    VPOS="715"
+                    WIDTH="889"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1121 726 1101 732 1082 736 1084 758 1084 777 1967 781 1971 754 1967 726 1858 715 1856 715 1854 715 1852 715 1840 726 1715 726 1684 715 1682 715 1680 715 1678 715 1676 715 1676 717 1666 726 1557 726 1526 715 1524 715 1522 715 1520 715 1489 726 1452 717 1450 717 1448 717 1327 726 1232 717 1230 717 1228 717 1226 717 1212 726 1130 717 1121 726"/></Shape>
+            <String CONTENT="притихли?» сказалъ, наконецъ, Бульба, очнув-"
+                    HPOS="1082"
+                    VPOS="715"
+                    WIDTH="889"
+                    HEIGHT="66"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8954c97a"
+                    TAGREFS="LT1379"
+                    BASELINE="1080 802 1969 808" 
+                    HPOS="1078"
+                    VPOS="771"
+                    WIDTH="891"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1080 802 1078 820 1101 830 1103 830 1105 830 1292 822 1376 832 1378 832 1967 824 1969 808 1965 771 1080 771 1080 802"/></Shape>
+            <String CONTENT="шись отъ своей задумчивости: «какъ будто"
+                    HPOS="1078"
+                    VPOS="771"
+                    WIDTH="891"
+                    HEIGHT="61"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4b60ad36"
+                    TAGREFS="LT1379"
+                    BASELINE="1162 709 1969 705" 
+                    HPOS="1160"
+                    VPOS="664"
+                    WIDTH="809"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1920 678 1900 676 1881 674 1861 672 1842 670 1822 668 1803 666 1799 664 1616 664 1608 666 1588 666 1569 666 1550 666 1530 668 1511 668 1491 668 1472 668 1452 670 1433 670 1413 670 1394 670 1374 672 1355 672 1335 672 1316 672 1296 674 1277 674 1257 674 1238 674 1218 676 1199 676 1179 676 1160 676 1162 709 1162 736 1538 736 1538 734 1592 724 1965 732 1969 705 1936 678 1920 678"/></Shape>
+            <String CONTENT="&quot;Э, э, э! что же это вы, хлопцы, такъ"
+                    HPOS="1160"
+                    VPOS="664"
+                    WIDTH="809"
+                    HEIGHT="72"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_784cde64"
+                    TAGREFS="LT1379"
+                    BASELINE="1080 855 1971 855" 
+                    HPOS="1080"
+                    VPOS="826"
+                    WIDTH="891"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1080 855 1080 873 1969 880 1971 855 1971 826 1080 826 1080 855"/></Shape>
+            <String CONTENT="какіе-нибудь черкецы! Ну, разомъ всѣ думки"
+                    HPOS="1080"
+                    VPOS="826"
+                    WIDTH="891"
+                    HEIGHT="54"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_71dfb15e"
+                    TAGREFS="LT1379"
+                    BASELINE="1082 902 1969 906" 
+                    HPOS="1080"
+                    VPOS="867"
+                    WIDTH="889"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1082 902 1080 915 1216 927 1218 929 1967 929 1969 906 1965 867 1082 867 1082 902"/></Shape>
+            <String CONTENT="къ нечистому! Берите въ зубы люльки, да"
+                    HPOS="1080"
+                    VPOS="867"
+                    WIDTH="889"
+                    HEIGHT="62"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6f3f105c"
+                    TAGREFS="LT1379"
+                    BASELINE="1080 949 1969 956" 
+                    HPOS="1078"
+                    VPOS="919"
+                    WIDTH="891"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1080 949 1078 966 1965 982 1969 956 1967 927 1080 919 1080 949"/></Shape>
+            <String CONTENT="закуримъ, да пришпоримъ коней, да полетимъ"
+                    HPOS="1078"
+                    VPOS="919"
+                    WIDTH="891"
+                    HEIGHT="63"
+                    WC="0.9957576294740041"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b22be4c0"
+                    TAGREFS="LT1379"
+                    BASELINE="1080 995 1930 1001" 
+                    HPOS="1078"
+                    VPOS="968"
+                    WIDTH="852"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1080 995 1078 1034 1928 1034 1930 1001 1928 972 1080 968 1080 995"/></Shape>
+            <String CONTENT="такъ, чтобы и птица не угналась за нами!»"
+                    HPOS="1078"
+                    VPOS="968"
+                    WIDTH="852"
+                    HEIGHT="66"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a8319194"
+                    TAGREFS="LT1379"
+                    BASELINE="1378 1075 1971 1079" 
+                    HPOS="1376"
+                    VPOS="1038"
+                    WIDTH="595"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1378 1075 1376 1112 1969 1112 1971 1079 1971 1042 1378 1038 1378 1075"/></Shape>
+            <String CONTENT="Н. В. Гоголь. «Тарасъ Бульба»."
+                    HPOS="1376"
+                    VPOS="1038"
+                    WIDTH="595"
+                    HEIGHT="74"
+                    WC="0.9891897777716319"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_26b3b1bc"
+                    TAGREFS="LT1379"
+                    BASELINE="495 1510 1971 1520" 
+                    HPOS="493"
+                    VPOS="1360"
+                    WIDTH="1478"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="495 1510 493 1541 590 1527 610 1543 612 1543 614 1543 791 1547 793 1547 1037 1535 1177 1547 1179 1547 1234 1535 1253 1543 1255 1543 1257 1543 1409 1533 1596 1537 1608 1549 1610 1549 1612 1549 1614 1549 1616 1549 1668 1533 1967 1547 1971 1520 1967 1375 1906 1389 1873 1375 1871 1375 1869 1375 1867 1375 1821 1389 1774 1377 1772 1377 1770 1377 1768 1377 1766 1377 1752 1391 1711 1391 1645 1364 1643 1364 1534 1364 1532 1364 1530 1364 1528 1364 1491 1387 1333 1383 1280 1362 1278 1362 1277 1362 1275 1362 1202 1385 1169 1364 1167 1364 1165 1364 1126 1362 1124 1362 1082 1366 1080 1366 1078 1366 1054 1383 947 1360 945 1360 729 1362 727 1362 725 1362 713 1372 643 1360 641 1360 639 1360 596 1375 573 1364 571 1364 569 1364 495 1366 495 1510"/></Shape>
+            <String CONTENT="РОДИМЫЙ КРАЙ"
+                    HPOS="493"
+                    VPOS="1360"
+                    WIDTH="1478"
+                    HEIGHT="189"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f3103af8"
+                    TAGREFS="LT1379"
+                    BASELINE="573 1640 1891 1650" 
+                    HPOS="571"
+                    VPOS="1578"
+                    WIDTH="1320"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="573 1640 571 1672 686 1674 707 1687 709 1687 711 1687 713 1687 826 1676 875 1689 877 1689 879 1689 957 1677 980 1689 982 1689 984 1689 1043 1679 1099 1691 1101 1691 1358 1683 1548 1693 1550 1693 1551 1693 1577 1683 1624 1695 1626 1695 1627 1697 1813 1697 1813 1695 1815 1695 1817 1695 1832 1683 1887 1693 1891 1650 1889 1601 1676 1601 1629 1584 1627 1584 1511 1584 1509 1584 1507 1584 1505 1584 1487 1594 1222 1584 1220 1584 1162 1596 994 1580 992 1580 931 1590 826 1578 824 1578 573 1588 573 1640"/></Shape>
+            <String CONTENT="Ежемѣсячный Казачій журналъ"
+                    HPOS="571"
+                    VPOS="1578"
+                    WIDTH="1320"
+                    HEIGHT="119"
+                    WC="0.99937621973179"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e9e50be4"
+                    TAGREFS="LT1379"
+                    BASELINE="894 1750 1557 1754" 
+                    HPOS="892"
+                    VPOS="1681"
+                    WIDTH="665"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="894 1750 892 1763 1019 1765 1029 1775 1029 1777 1031 1777 1033 1777 1035 1777 1142 1767 1154 1777 1156 1777 1158 1777 1160 1777 1298 1769 1308 1777 1308 1779 1310 1779 1312 1779 1314 1781 1555 1781 1557 1754 1557 1695 1514 1683 1512 1683 1511 1683 1333 1695 1232 1695 1212 1681 1210 1681 1208 1681 1206 1681 894 1687 894 1750"/></Shape>
+            <String CONTENT="LE PAYS NATAL"
+                    HPOS="892"
+                    VPOS="1681"
+                    WIDTH="665"
+                    HEIGHT="100"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2806696e"
+                    TAGREFS="LT1379"
+                    BASELINE="676 1921 1774 1937" 
+                    HPOS="674"
+                    VPOS="1876"
+                    WIDTH="1100"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1766 1933 1756 1898 1635 1888 1633 1888 1528 1896 701 1876 699 1876 697 1876 694 1876 676 1896 676 1921 674 1960 1633 1964 1702 1976 1704 1976 1772 1966 1774 1937 1772 1931 1766 1933"/></Shape>
+            <String CONTENT="Издатель: ПРАВЛЕНІЕ КАЗАЧЬЯГО СОЮЗА."
+                    HPOS="674"
+                    VPOS="1876"
+                    WIDTH="1100"
+                    HEIGHT="100"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c14de2a9"
+                    TAGREFS="LT1379"
+                    BASELINE="814 1876 1627 1886" 
+                    HPOS="813"
+                    VPOS="1824"
+                    WIDTH="814"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="814 1876 813 1892 1624 1900 1627 1886 1626 1847 1555 1833 1553 1833 1329 1839 1304 1830 1302 1830 1300 1830 1243 1841 1111 1831 1109 1831 885 1837 814 1824 814 1876"/></Shape>
+            <String CONTENT="Редакторъ: Н. м. Мельниковъ."
+                    HPOS="813"
+                    VPOS="1824"
+                    WIDTH="814"
+                    HEIGHT="76"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_55d19172"
+                    TAGREFS="LT1379"
+                    BASELINE="992 1808 1462 1808" 
+                    HPOS="992"
+                    VPOS="1765"
+                    WIDTH="470"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="992 1808 992 1835 1462 1831 1462 1808 1462 1771 992 1765 992 1808"/></Shape>
+            <String CONTENT="REVUE MENSUELLE"
+                    HPOS="992"
+                    VPOS="1765"
+                    WIDTH="470"
+                    HEIGHT="70"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8197685d"
+                    TAGREFS="LT1379"
+                    BASELINE="1033 2176 1403 2176" 
+                    HPOS="1033"
+                    VPOS="2112"
+                    WIDTH="370"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1390 2112 1039 2118 1033 2128 1033 2176 1033 2221 1403 2221 1403 2176 1401 2118 1390 2112"/></Shape>
+            <String CONTENT="N°2 (12)"
+                    HPOS="1033"
+                    VPOS="2112"
+                    WIDTH="370"
+                    HEIGHT="109"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9eb8d73e"
+                    TAGREFS="LT1379"
+                    BASELINE="565 2736 1863 2749" 
+                    HPOS="563"
+                    VPOS="2689"
+                    WIDTH="1300"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1852 2703 1832 2701 1813 2701 1793 2699 1774 2697 1754 2695 1748 2695 1743 2701 1735 2695 1735 2695 1715 2695 1696 2695 1676 2695 1657 2695 1637 2695 1618 2695 1598 2695 1579 2695 1573 2695 1563 2703 1413 2703 1390 2693 1384 2693 1364 2693 1355 2693 1345 2701 1333 2693 1325 2693 1306 2693 1288 2693 1269 2699 1199 2693 1189 2693 1169 2691 1150 2691 1130 2691 1111 2691 1091 2691 1072 2691 1052 2691 1033 2691 1013 2691 994 2691 974 2691 955 2691 935 2691 916 2691 896 2691 877 2691 857 2689 838 2689 818 2689 799 2689 779 2689 760 2689 740 2689 721 2689 701 2689 682 2689 662 2689 643 2689 623 2689 614 2689 581 2693 567 2722 565 2736 563 2765 871 2765 896 2777 898 2777 900 2777 902 2777 941 2765 1009 2765 1023 2777 1025 2777 1027 2777 1029 2777 1294 2767 1323 2781 1325 2781 1327 2781 1460 2769 1499 2784 1501 2784 1860 2786 1863 2749 1863 2722 1852 2703"/></Shape>
+            <String CONTENT="UNION DES COSAQUES, 1, villa Chauvelot, PARIS (15e)"
+                    HPOS="563"
+                    VPOS="2689"
+                    WIDTH="1300"
+                    HEIGHT="97"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_007f5641"
+                    TAGREFS="LT1379"
+                    BASELINE="939 2796 1493 2792" 
+                    HPOS="937"
+                    VPOS="2765"
+                    WIDTH="556"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="939 2796 939 2820 984 2821 1000 2837 1000 2839 1002 2839 1004 2839 1006 2839 1046 2837 1048 2837 1050 2837 1050 2835 1064 2821 1085 2831 1087 2831 1089 2831 1191 2821 1261 2833 1263 2833 1265 2833 1267 2833 1284 2820 1343 2837 1345 2837 1347 2837 1493 2835 1493 2792 1489 2765 937 2765 939 2796"/></Shape>
+            <String CONTENT="Téléphone : Vaugirard 04-08"
+                    HPOS="937"
+                    VPOS="2765"
+                    WIDTH="556"
+                    HEIGHT="74"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b80f4884"
+                    TAGREFS="LT1379"
+                    BASELINE="1060 2866 1360 2862" 
+                    HPOS="1058"
+                    VPOS="2816"
+                    WIDTH="302"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1060 2866 1060 2890 1358 2890 1360 2862 1356 2821 1058 2816 1060 2866"/></Shape>
+            <String CONTENT="ПАРИЖЪ"
+                    HPOS="1058"
+                    VPOS="2816"
+                    WIDTH="302"
+                    HEIGHT="74"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_795b5f3b"
+                    TAGREFS="LT1379"
+                    BASELINE="1148 2917 1290 2911" 
+                    HPOS="1144"
+                    VPOS="2872"
+                    WIDTH="146"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1148 2917 1148 2964 1240 2970 1241 2970 1243 2970 1245 2970 1245 2968 1265 2952 1288 2952 1290 2911 1284 2872 1144 2874 1148 2917"/></Shape>
+            <String CONTENT="1930"
+                    HPOS="1144"
+                    VPOS="2872"
+                    WIDTH="146"
+                    HEIGHT="98"
+                    WC="0.9999803602695465"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
