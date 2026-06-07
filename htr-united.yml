@@ -29,143 +29,149 @@ characters:
   - п
   - у
   - я
-  - г
   - ','
+  - г
   - ы
   - з
-  - ь
   - .
+  - ь
   - б
   - ч
   - ̆
   - '-'
   - х
-  - ѣ
+  - e
   - ж
+  - ѣ
   - і
   - ш
   - ю
-  - щ
   - ц
+  - i
+  - щ
+  - a
+  - r
+  - s
   - К
   - В
+  - t
+  - n
+  - u
   - П
-  - '1'
+  - o
   - С
-  - Н
-  - Г
+  - '1'
+  - l
   - А
+  - Н
+  - d
+  - Г
   - '0'
   - Р
   - О
-  - И
-  - e
   - э
-  - i
-  - Б
-  - '2'
+  - c
+  - И
   - «
-  - Е
   - »
-  - ф
-  - '9'
-  - a
-  - М
   - Д
+  - ́
+  - Б
+  - p
+  - Е
+  - '2'
+  - m
+  - '9'
+  - ф
   - ':'
   - '3'
-  - r
-  - '5'
+  - v
+  - М
   - Т
+  - '5'
   - '?'
-  - s
   - '"'
   - '4'
-  - '8'
   - З
-  - Л
-  - t
-  - )
-  - o
+  - g
+  - f
   - N
+  - )
+  - Л
+  - '8'
+  - b
   - Я
-  - '6'
+  - q
+  - L
+  - E
+  - h
   - I
   - '7'
-  - Ч
-  - '!'
-  - n
-  - c
-  - u
-  - °
-  - l
-  - У
-  - Ф
-  - Ю
-  - Х
-  - Ш
-  - d
-  - (
-  - "'"
-  - ;
+  - ’
   - S
-  - ᗅ
-  - E
-  - Э
+  - '6'
+  - '!'
+  - Ф
+  - ̀
+  - Ч
+  - (
+  - Х
+  - °
+  - ;
+  - У
+  - Ю
   - R
-  - ̈
-  - Ъ
-  - _
+  - Ш
+  - "'"
   - P
-  - h
-  - „
-  - m
-  - M
-  - ᗞ
-  - v
-  - O
-  - Ж
-  - L
-  - V
-  - F
-  - G
-  - k
-  - y
   - U
+  - x
+  - y
+  - Э
+  - A
+  - V
+  - k
+  - ̂
+  - M
+  - ᗅ
+  - T
+  - Ъ
+  - O
+  - C
+  - F
+  - Ж
+  - _
+  - G
+  - ̈
+  - „
+  - D
+  - H
+  - ᗞ
   - B
-  - ́
+  - Ь
+  - Y
+  - —
   - ᑕ
   - …
   - Ц
-  - Ь
-  - Y
-  - T
-  - f
-  - p
-  - b
-  - q
-  - g
-  - H
-  - w
-  - '*'
+  - Ѣ
+  - ¬
   - Ы
+  - w
+  - j
+  - '*'
+  - Q
   - J
   - K
-  - C
-  - Ѣ
-  - A
-  - D
-  - x
-  - ̀
+  - І
+  - Щ
+  - ̧
+  - X
   - W
   - §
   - '%'
-  - ̂
-  - І
-  - j
-  - Q
-  - X
-  - Щ
+  - œ
+  - z
   mode: NFD
 description: Cossack periodicals
 format: Alto-XML
@@ -191,13 +197,13 @@ time:
 title: CossackOCR
 url: https://github.com/Cossackry/CossackOCR
 volume:
-- count: 71444
+- count: 90609
   metric: characters
-- count: 29
+- count: 37
   metric: files
-- count: 1857
+- count: 2401
   metric: lines
 - count: 25
   metric: pages
-- count: 143
+- count: 194
   metric: regions
